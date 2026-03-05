@@ -1,0 +1,471 @@
+[main]
+diaszam=64
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=42E3EB9E
+versszak=1
+enek=323
+kotet=Tápió Menti Énekkönyv
+
+[5]
+id=1BD65FB2
+versszak=Ref
+enek=323
+kotet=Tápió Menti Énekkönyv
+
+[6]
+id=8C5F6072
+versszak=2
+enek=323
+kotet=Tápió Menti Énekkönyv
+
+[7]
+id=637B84E4
+versszak=Ref
+enek=323
+kotet=Tápió Menti Énekkönyv
+
+[8]
+id=854699C6
+versszak=Bridge
+enek=323
+kotet=Tápió Menti Énekkönyv
+
+[9]
+id=637B84E5
+versszak=Ref
+enek=323
+kotet=Tápió Menti Énekkönyv
+
+[10]
+id=6B9C1275
+versszak=1
+enek=328
+kotet=Tápió Menti Énekkönyv
+
+[11]
+id=11410C30
+versszak=2
+enek=328
+kotet=Tápió Menti Énekkönyv
+
+[12]
+caption= 
+lines=2
+line0=Az Atya, a Fiú, és a Szentlélek nevében. 
+line1=Ámen 
+soundfile=
+fotofile=
+
+[13]
+caption= 
+lines=4
+line0=A main napon arra keresssük a választ, 
+line1=hogyan legyek szent, és milyen utat válasszak az üdvösség felé, 
+line2=valamint ahhoz milyen lépéseket kell megtennem. 
+line3=Kedves Közisek, öveket becsatolni, mert a main utazás egészen különleges, és egyben rázós is lesz! 
+soundfile=
+fotofile=
+
+[14]
+caption= 
+lines=3
+line0=Egy különleges imaginációs imára hívunk benneteket, 
+line1=ahol most közösen tervezünk utat, 
+line2=nem kisebb cél felé, mint az üdvösség. 
+soundfile=
+fotofile=
+
+[15]
+caption= 
+lines=4
+line0=Bátorítunk benneteket, hogy helyezkedjetek el minél 
+line1=kényelmesebben, és ha nem alszotok el, 
+line2=akkor hunyjátok is le a szemeteket, 
+line3=hogy ez az utazás minél közelebbi lehessen. 
+soundfile=
+fotofile=
+
+[16]
+caption= 
+lines=6
+line0=Első lépésként járművet választunk az életszentséghez vezető útra. 
+line1=Adunk egy kis időt, gondold át és halld meg, 
+line2=hogy téged a Jóisten milyen életmódra hív. 
+line3=(Papság? Szerzetesség? 
+line4=Édesanyának vagy édesapának lenni? 
+line5=Egyedüli útkereső?) 
+soundfile=
+fotofile=
+
+[17]
+caption= 
+lines=3
+line0=Ha megvan, képzeld el, hogy ez az életmód az üdvösséghez vezető járműved, ezzel 
+line1=közlekedsz, ezen jármű adottságaira támaszkodsz egész életed során. Mi lenne ez? 
+line2=Egy Combino? Egy tengeralattjáró? Egy kerékpár? Netán egy hőlégballon? 
+soundfile=
+fotofile=
+
+[18]
+caption= 
+lines=2
+line0=Gondold át, hogy minek képzeled el ezt az életmódodnak megfelelő járművet, és keresd is a 
+line1=párhuzamot, miért azt választottad! Erre is adunk kis időt. 
+soundfile=
+fotofile=
+
+[19]
+caption= 
+lines=2
+line0=Istenünk, te meghívsz egy életútra, segíts, hogy mindannyian a magunk járművén 
+line1=haladva mindig egyre közelebb jussunk Tehozzád! 
+soundfile=
+fotofile=
+
+[20]
+caption= 
+lines=4
+line0=Remek, mostmár remélhetőleg készen állunk az indulásra! Az utunk elején 
+line1=egyenesben vagyunk, egy ismeretlen hosszúságú, egyenes szakaszon. Képzeljük el 
+line2=a választott járművünket, amint ezen az egyenes szakaszon közlekedik… 
+line3=legyen az sín, levegő, víz, út. 
+soundfile=
+fotofile=
+
+[21]
+caption= 
+lines=2
+line0=Mi az én életem egyenes szakasza ma? Látom, hogy milyen hosszú ez a szakasz? 
+line1=Milyen egyenes szakaszok kellenek az üdvösség felé? 
+soundfile=
+fotofile=
+
+[22]
+caption= 
+lines=2
+line0=Uram, Te megannyi jóval és egyenes úttal halmozol el bennünket, add meg kérünk, 
+line1=hogy ezt szem előtt tartva mindig hálával fordulhassunk Feléd! 
+soundfile=
+fotofile=
+
+[23]
+caption= 
+lines=3
+line0=Már-már mindenki megszokta, hogy az életben nem mindig úgy történnek a dolgok, 
+line1=ahogy eltervezzük. Olykor más irányba kanyarodik az életutunk, és más irányba 
+line2=kezdünk el tartani. 
+soundfile=
+fotofile=
+
+[24]
+caption= 
+lines=3
+line0=Képzeljük mi is bele magunkat, ahogy a járművünkkel 
+line1=egyszercsak más irányt kezdünk el venni. A kanyar hosszát és ívét még nem látjuk, 
+line2=de bizakodva vágunk bele a manőverbe 
+soundfile=
+fotofile=
+
+[25]
+caption= 
+lines=3
+line0=Felismerünk mostanában ilyen kanyarokat az életünkben? Milyen élesek ezek, és 
+line1=milyen irányba terelnek minket? 
+line2=Hol van Isten a kanyarhoz képest? 
+soundfile=
+fotofile=
+
+[26]
+caption= 
+lines=2
+line0=Atyám, add meg nekünk, hogy bármilyen irányt vesz is az utunk, a cél mindig Nálad 
+line1=legyen! 
+soundfile=
+fotofile=
+
+[27]
+caption= 
+lines=3
+line0=Mehetünk bármerre is, az utunkat akaratlanul is sokszor különféle akadályok 
+line1=keresztezik. Legtöbbször meg is kell állnunk, és csak később, erőfeszítések árán 
+line2=tudjuk folytatni azt. 
+soundfile=
+fotofile=
+
+[28]
+caption= 
+lines=2
+line0=Helyezzük vissza magunkat a sofőr szerepébe, és ahogy 
+line1=szembetaláljuk magunkat a problémával, úgy kezdjük el annak elhárítását is. 
+soundfile=
+fotofile=
+
+[29]
+caption= 
+lines=3
+line0=Milyen akadályokkal és problémákkal kell szembenéznem Krisztus keresése során? 
+line1=(Mik azok, amikkel éppen mostanában kell megbirkóznom, és mik, amikkel csak 
+line2=később kell foglalkoznom? Mik azok, amik visszatartanak engem? 
+soundfile=
+fotofile=
+
+[30]
+caption= 
+lines=3
+line0=Kérünk Téged, Mennyei Atyánk, segíts meg bennünket, hogy soha ne adjuk fel az 
+line1=utunkat, és mindig megbirkózzunk az elénk kerülő akadályokkal, bármekkorák is 
+line2=legyenek! 
+soundfile=
+fotofile=
+
+[31]
+caption= 
+lines=3
+line0=Életutunk járásában megannyi egyenes szakasz, kanyar, akadály, és egyéb teher 
+line1=felbukkan, és persze ezeknek tetszőleges sorrendje, kombinációja mind-mind 
+line2=előfordulhat. 
+soundfile=
+fotofile=
+
+[32]
+caption= 
+lines=3
+line0=Nincs két azonos út, és ne is irigyeld a másét, a Tiéd pont így van jól. A 
+line1=lényeg, hogy az iránytű mindvégig Isten felé mutasson, mert az üdvösség csakis 
+line2=Őbenne létezik. 
+soundfile=
+fotofile=
+
+[33]
+caption= 
+lines=2
+line0=És hogy milyen lesz amikor célbaérünk? Hadd fessem le egy képpel! 
+line1=Képzeljük csak el, ahogy a járművünkkel gyönyörű szép tájakhoz érkeztünk: 
+soundfile=
+fotofile=
+
+[34]
+caption= 
+lines=2
+line0=balról a tenger hullámaiban csillan vissza a nap fénye, jobbról a közelben magas hegyek 
+line1=láthatók, telis-tele fákkal, és az arcunkat pedig lágy szellő friss fuvallata simogatja 
+soundfile=
+fotofile=
+
+[35]
+caption= 
+lines=2
+line0=És amikor innen visszanézel, már egy kellemes emlékként nézed vissza azt az utat, 
+line1=amin végigmentél. 
+soundfile=
+fotofile=
+
+[36]
+caption= 
+lines=5
+line0=Hálaima: 
+line1=Hálát adunk Uram, hogy vezetsz minket ezen a rázós, de dicsőséges úton a mennyei 
+line2=célállomás felé. 
+line3=Köszönjük a járműveinket, amiket hivatásként adsz nekünk, és minden 
+line4=megállót, amelyek apró lépésenként visznek egyre közelebb a szent léthet! 
+soundfile=
+fotofile=
+
+[37]
+caption= 
+lines=4
+line0=Köszönöm, hogy a kanyarokban megtanítottál bízni, az akadályokban hordozni a 
+line1=keresztemet, a meredek szakaszokon felemeltél, a tétlenségben megújítottál. 
+line2=Köszönjük, hogy velünk tartasz minden lépésben. 
+line3=Segíts, hogy az üdvösség útján járjunk. 
+soundfile=
+fotofile=
+
+[38]
+caption= 
+lines=6
+line0=Kérünk, maradj velünk a kísértések sivatagában, erősíts meg a világi zajban, adj kegyelmet 
+line1=a bűnök ellen, és tarts meg minket hűségesen a szeretetedben. 
+line2=Krisztus, a mi Urunk által! Ámen. 
+line3= 
+line4=Az Atya, a Fiú, és a Szentlélek nevében. 
+line5=Amen. 
+soundfile=
+fotofile=
+
+[39]
+id=AA65F01F
+versszak=1
+enek=54
+kotet=Tápió Menti Énekkönyv
+
+[40]
+id=6DDF2D38
+versszak=2
+enek=54
+kotet=Tápió Menti Énekkönyv
+
+[41]
+id=D3B174DF
+versszak=3
+enek=54
+kotet=Tápió Menti Énekkönyv
+
+[42]
+id=5805C0AF
+versszak=4
+enek=54
+kotet=Tápió Menti Énekkönyv
+
+[43]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[44]
+kep=unnamed.png
+soundfile=
+fotofile=
+
+[45]
+caption=Csoportbeosztás 
+lines=5
+line0=Templom: Füge, Cseresznyevirág, Méz, Szeder, Avokádó, Borsó, Gesztenye, Áfonya, Parázs, Bambusz, Csipkebogyó, Bodza 
+line1=Köziterem: Gránátalma, Ultraibolya, Pisztácia, Jégmadár 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BMEQBF08: Nefelejcs, Pipacs 
+soundfile=
+fotofile=
+
+[46]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[47]
+id=0DAC7330
+versszak=1
+enek=Irgalmazz, Urunk
+kotet=MKK énekek
+
+[48]
+id=673E4BA2
+versszak=1
+enek=166
+kotet=Dalolj az Úrnak!
+
+[49]
+id=76E9C7E4
+versszak=2
+enek=166
+kotet=Dalolj az Úrnak!
+
+[50]
+id=3E6BDD36
+versszak=1
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[51]
+id=0A565D6F
+versszak=2
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[52]
+id=CF353033
+versszak=3
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[53]
+id=7A48CBB5
+versszak=4
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[54]
+id=D70C7E58
+versszak=5
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[55]
+id=D75B5DD9
+versszak=6
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[56]
+id=A7FEC245
+versszak=1
+enek=148
+kotet=Dalolj az Úrnak!
+
+[57]
+id=D7AD1AC1
+versszak=2
+enek=148
+kotet=Dalolj az Úrnak!
+
+[58]
+id=35A7E5A8
+versszak=3
+enek=148
+kotet=Dalolj az Úrnak!
+
+[59]
+id=CC86571E
+versszak=4
+enek=148
+kotet=Dalolj az Úrnak!
+
+[60]
+id=898A9AB3
+versszak=ref
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[61]
+id=B8974E3A
+versszak=1
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[62]
+id=771944FF
+versszak=ref
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[63]
+id=28B16E7B
+versszak=2
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[64]
+id=7D2F82E4
+versszak=1
+enek=Jézus a jóság
+kotet=MKK énekek

@@ -1,0 +1,219 @@
+[main]
+diaszam=36
+utf8=1
+
+[1]
+id=B0404554
+versszak=v1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[2]
+id=A2D3467C
+versszak=c1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[3]
+id=59929C34
+versszak=v2
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[4]
+id=036C86FE
+versszak=1
+enek=11
+kotet=Dalolj az Úrnak!
+
+[5]
+id=4A9087D6
+versszak=2
+enek=11
+kotet=Dalolj az Úrnak!
+
+[6]
+id=D85CFAAF
+versszak=1
+enek=35
+kotet=Tápió Menti Énekkönyv
+
+[7]
+id=CD4117F5
+versszak=1
+enek=113
+kotet=Tápió Menti Énekkönyv
+
+[8]
+id=4E904DC1
+versszak=1
+enek=132
+kotet=Tápió Menti Énekkönyv
+
+[9]
+id=EA4D360D
+versszak=1
+enek=251
+kotet=Éneklő Egyház
+
+[10]
+id=7464F411
+versszak=2
+enek=251
+kotet=Éneklő Egyház
+
+[11]
+id=F2845FE8
+versszak=3
+enek=251
+kotet=Éneklő Egyház
+
+[12]
+id=8F3E0FBB
+versszak=4
+enek=251
+kotet=Éneklő Egyház
+
+[13]
+id=9C0B3A90
+versszak=5
+enek=251
+kotet=Éneklő Egyház
+
+[14]
+id=C4A4134E
+versszak=6
+enek=251
+kotet=Éneklő Egyház
+
+[15]
+id=E6EE00FC
+versszak=1
+enek=135
+kotet=Dalolj az Úrnak!
+
+[16]
+id=2F8F32FE
+versszak=1
+enek=Jézus, szent neved áldom
+kotet=MKK énekek
+
+[17]
+id=22AD35C3
+versszak=2
+enek=Jézus, szent neved áldom
+kotet=MKK énekek
+
+[18]
+id=171C1BC4
+versszak=1
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[19]
+id=71CA9CE5
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[20]
+id=E1B8B206
+versszak=2
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[21]
+id=2A2FB4BA
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[22]
+id=DF9411BA
+versszak=brigde
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[23]
+id=2A2FB4BB
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[24]
+id=00846F87
+versszak=coda
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[25]
+id=7D2F82E4
+versszak=1
+enek=Jézus a jóság
+kotet=MKK énekek
+
+[26]
+id=26FE97B4
+versszak=1
+enek=293
+kotet=ZöldKönyv
+
+[27]
+id=087A73F7
+versszak=Refr
+enek=293
+kotet=ZöldKönyv
+
+[28]
+id=1D518045
+versszak=2
+enek=293
+kotet=ZöldKönyv
+
+[29]
+id=087A73F8
+versszak=Refr
+enek=293
+kotet=ZöldKönyv
+
+[30]
+id=12DE4857
+versszak=3
+enek=293
+kotet=ZöldKönyv
+
+[31]
+id=03099B51
+versszak=1
+enek=196
+kotet=Tápió Menti Énekkönyv
+
+[32]
+id=4A76F649
+versszak=2
+enek=Pange lingua
+kotet=Latin imák és válaszok
+
+[33]
+id=B6AAAE76
+versszak=3
+enek=Pange lingua
+kotet=Latin imák és válaszok
+
+[34]
+id=906F77EA
+versszak=verzikulus
+enek=Pange lingua
+kotet=Latin imák és válaszok
+
+[35]
+id=673E4BA2
+versszak=1
+enek=166
+kotet=Dalolj az Úrnak!
+
+[36]
+id=76E9C7E4
+versszak=2
+enek=166
+kotet=Dalolj az Úrnak!

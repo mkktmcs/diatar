@@ -1,0 +1,30 @@
+[main]
+diaszam=5
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[5]
+separator=<Záróima> 
+soundfile=
+fotofile=

@@ -1,0 +1,105 @@
+[main]
+diaszam=17
+utf8=1
+
+[1]
+id=9FAA4C44
+versszak=1
+enek=12
+kotet=Tápió Menti Énekkönyv
+
+[2]
+id=68362AA0
+versszak=
+enek=411
+kotet=Éneklő Egyház
+
+[3]
+id=3DFF3DBA
+versszak=A
+enek=Nagyböjt 1.
+kotet=Zsoltár: vasárnapok
+
+[4]
+id=AE2AE0B0
+versszak=2
+enek=Evangélium előtti vers
+kotet=Ordinárium
+
+[5]
+id=898A9AB3
+versszak=ref
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[6]
+id=B8974E3A
+versszak=1
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[7]
+id=771944FF
+versszak=ref
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[8]
+id=28B16E7B
+versszak=2
+enek=Te vagy a szőlőtő
+kotet=MKK énekek
+
+[9]
+id=3BB03E7B
+versszak=1
+enek=167
+kotet=Tápió Menti Énekkönyv
+
+[10]
+id=0D78C5B8
+versszak=1
+enek=168
+kotet=Tápió Menti Énekkönyv
+
+[11]
+id=C9289F8F
+versszak=1
+enek=107
+kotet=Dalolj az Úrnak!
+
+[12]
+id=47712ED7
+versszak=2
+enek=107
+kotet=Dalolj az Úrnak!
+
+[13]
+id=F6237DBE
+versszak=3
+enek=107
+kotet=Dalolj az Úrnak!
+
+[14]
+id=A8C6E214
+versszak=4
+enek=107
+kotet=Dalolj az Úrnak!
+
+[15]
+id=D02EBFD6
+versszak=1
+enek=Szívem, testem, hitem, lelkem
+kotet=MKK énekek
+
+[16]
+id=A7B4B0C3
+versszak=v1
+enek=69  Vezess engem ösvényeden
+kotet=Szent András Énekfüzet
+
+[17]
+id=C13E34CD
+versszak=v2
+enek=69  Vezess engem ösvényeden
+kotet=Szent András Énekfüzet

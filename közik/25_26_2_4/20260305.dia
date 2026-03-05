@@ -1,0 +1,160 @@
+[main]
+diaszam=25
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=BE1834C5
+versszak=1
+enek=22
+kotet=Dalolj az Úrnak!
+
+[5]
+id=BE8FE894
+versszak=2
+enek=22
+kotet=Dalolj az Úrnak!
+
+[6]
+id=6078183F
+versszak=3
+enek=22
+kotet=Dalolj az Úrnak!
+
+[7]
+id=8D98643E
+versszak=4
+enek=22
+kotet=Dalolj az Úrnak!
+
+[8]
+id=0A435A15
+versszak=5
+enek=22
+kotet=Dalolj az Úrnak!
+
+[9]
+id=A6985A78
+versszak=1
+enek=Az Úrral való egység imája
+kotet=MKK Közös imádságok
+
+[10]
+id=1B4D9633
+versszak=2
+enek=Az Úrral való egység imája
+kotet=MKK Közös imádságok
+
+[11]
+kep=beosztas.png
+soundfile=
+fotofile=
+
+[12]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[13]
+caption= 
+lines=9
+line0=ÖMCs: Templom 
+line1=LMCs: Templom 
+line2=MMCs: Templom 
+line3=SMCs: Domboldal 
+line4=KMCs: Domboldal 
+line5=TMCs: Köziterem 
+line6=BMCs: Köziterem 
+line7=HMCs: Köziterem 
+line8=MKKatt: Köziterem 
+soundfile=
+fotofile=
+
+[14]
+caption= 
+lines=3
+line0=Templom: ÖMCs, LMCs, MMCs 
+line1=Domboldal: SMCs, KMCs 
+line2=Köziterem: BMCs, HMCs, TMCs, MKKatt 
+soundfile=
+fotofile=
+
+[15]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[16]
+id=D85CFAAF
+versszak=1
+enek=35
+kotet=Tápió Menti Énekkönyv
+
+[17]
+separator=missing szt istván 
+soundfile=
+fotofile=
+
+[18]
+id=A6985A78
+versszak=1
+enek=Az Úrral való egység imája
+kotet=MKK Közös imádságok
+
+[19]
+id=1B4D9633
+versszak=2
+enek=Az Úrral való egység imája
+kotet=MKK Közös imádságok
+
+[20]
+id=4D56A67F
+versszak=v1
+enek=106  Úr Jézus, Megváltóm
+kotet=Szent András Énekfüzet
+
+[21]
+id=5C3FB245
+versszak=c1
+enek=106  Úr Jézus, Megváltóm
+kotet=Szent András Énekfüzet
+
+[22]
+id=0C559CE5
+versszak=1
+enek=276
+kotet=Emmánuel közösség
+
+[23]
+id=86F10EB7
+versszak=2
+enek=276
+kotet=Emmánuel közösség
+
+[24]
+id=1A0ABFB5
+versszak=1
+enek=74
+kotet=Taize-i énekek
+
+[25]
+id=5264A9EA
+versszak=2
+enek=74
+kotet=Taize-i énekek

@@ -1,0 +1,376 @@
+[main]
+diaszam=53
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+caption= 
+lines=4
+line0=Mert ahogy lélek nélkül halott a test, a hit is halott tettek nélkül. 
+line1=(Jak 2, 26) 
+line2= 
+line3=Sokszor úgy tűnik, az ember értékét meghatározza teljesítménye. 
+soundfile=
+fotofile=
+
+[5]
+caption= 
+lines=4
+line0=“A teljesítmény (𝑃) fizikai mennyiség, amely megmutatja az egységnyi idő alatt 
+line1=végzett munka (𝑊) vagy átalakított energia (Δ𝐸) mértékét, azaz a munkavégzés 
+line2=sebességét. Képlete: P=W/t, ahol 𝑡 az idő. SI mértékegysége a watt (1 W=1 J/s) 
+line3=A teljesítmény az energiaátalakítás gyorsaságát jellemzi.” 
+soundfile=
+fotofile=
+
+[6]
+caption= 
+lines=2
+line0=Sokan saját produktivitásukra is e definícióhoz hasonlóan tekintenek. Azonban 
+line1=különböző szentek és gondolkodók az alábbiakat mondták a témáról: 
+soundfile=
+fotofile=
+
+[7]
+caption= 
+lines=5
+line0=Kalkuttai Szent Teréz: „Isten nem arra hívott minket, hogy sikeresek 
+line1=legyünk, hanem arra, hogy hűségesek.” 
+line2= 
+line3=Avilai Szent Teréz: „Isten nem a nagy dolgokat kéri, hanem azt, hogy 
+line4=nagy szeretettel tegyük a kicsiket.” 
+soundfile=
+fotofile=
+
+[8]
+caption= 
+lines=6
+line0=Keresztes Szent János: „A szeretetben nincs kényszer; ahol kényszer van, 
+line1=ott nem Isten uralkodik.” 
+line2= 
+line3=Abraham Lincoln: “Nem vagyok köteles győzni, de köteles vagyok 
+line4=igaznak lenni. Nem vagyok köteles sikert elérni, de köteles vagyok a 
+line5=bennem lévő fényhez méltón élni.” 
+soundfile=
+fotofile=
+
+[9]
+caption= 
+lines=3
+line0=Hogy Isten szereti a világot, az azt jelenti, hogy szemében minden 
+line1=teremtménynek önértéke van. Nem csak egy absztrakt cél viszonylatában 
+line2=értékes, hanem valahol az egész teremtés öncélú. 
+soundfile=
+fotofile=
+
+[10]
+id=40294E95
+versszak=1
+enek=39B  Indulj és menj
+kotet=Kék Könyv
+
+[11]
+id=48A01C8F
+versszak=2
+enek=39B  Indulj és menj
+kotet=Kék Könyv
+
+[12]
+caption= 
+lines=3
+line0=Szent John Henry Newman nem a teljesítmény, hanem a tökéletesség útját 
+line1=javasolta, amely az Istennel való kapcsolatot ápolja. Ez az igazi "teljesítmény" a 
+line2=hívő ember életében, ha ezt minden nap megteszi: 
+soundfile=
+fotofile=
+
+[13]
+caption= 
+lines=6
+line0=„Ha azt kérdezed, mit kell tenned, hogy tökéletes legyél, akkor az a feleletem, 
+line1=hogy 
+line2= 
+line3=ne lustálkodj reggel az ágyban, amikor eljött az ideje, hogy felkelj, 
+line4= 
+line5=első gondolataidban Istenhez fordulj, 
+soundfile=
+fotofile=
+
+[14]
+caption= 
+lines=5
+line0=áhítattal látogasd meg a legszentebb Oltáriszentséget, 
+line1= 
+line2=mondd el áhítattal az Úrangyalát, 
+line3= 
+line4=Isten dicsőségére egyél és igyál, 
+soundfile=
+fotofile=
+
+[15]
+caption= 
+lines=5
+line0=odafigyeléssel mondd a rózsafüzért, 
+line1= 
+line2=légy összeszedett, 
+line3= 
+line4=tartsd távol magad a rossz gondolatoktól, 
+soundfile=
+fotofile=
+
+[16]
+caption= 
+lines=5
+line0=rendesen végezd az esti elmélkedést, 
+line1= 
+line2=mindennap vizsgáld meg a lelkiismeretedet, 
+line3= 
+line4=este idejében térj nyugovóra – és máris tökéletes vagy.” 
+soundfile=
+fotofile=
+
+[17]
+caption= 
+lines=1
+line0=Megteszek minden tőlem telhetőt? 
+soundfile=
+fotofile=
+
+[18]
+caption= 
+lines=1
+line0=Mennyi a “minden”? És mi az, ami “tőlem telik”? 
+soundfile=
+fotofile=
+
+[19]
+caption= 
+lines=1
+line0=Észreveszem, ha valami nem telik tőlem? 
+soundfile=
+fotofile=
+
+[20]
+caption= 
+lines=1
+line0=Van valami, ami mostanában nehéz? 
+soundfile=
+fotofile=
+
+[21]
+caption= 
+lines=1
+line0=Ez az én küzdelmem, vagy nem az én harcom? 
+soundfile=
+fotofile=
+
+[22]
+caption= 
+lines=1
+line0=Vagyok elég jó? 
+soundfile=
+fotofile=
+
+[23]
+caption= 
+lines=1
+line0=Istenem, elég jó vagyok? 
+soundfile=
+fotofile=
+
+[24]
+id=B0404554
+versszak=v1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[25]
+id=A2D3467C
+versszak=c1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[26]
+id=59929C34
+versszak=v2
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[27]
+separator=Csoportbeosztás 
+soundfile=
+fotofile=
+
+[28]
+kep=beosztas260219.png
+soundfile=
+fotofile=
+
+[29]
+caption= 
+lines=5
+line0=Templom: Gránátalma, Nefelejcs, Cseresznyevirág, Szeder, Avokádó, Ultraibolya, Gesztenye, Pisztácia, Parázs, Bambusz, Csipkebogyó, Pipacs 
+line1=Köziterem: Füge, Borsó, Áfonya, Bodza 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BMEQFB08: Méz, Jégmadár 
+soundfile=
+fotofile=
+
+[30]
+separator=<Katekézis előtt> 
+soundfile=
+fotofile=
+
+[31]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[32]
+id=2044BF27
+versszak=1
+enek=Eljött hozzám, mikor még bűnben éltem
+kotet=MKK énekek
+
+[33]
+id=127D17DB
+versszak=Refr
+enek=Eljött hozzám, mikor még bűnben éltem
+kotet=MKK énekek
+
+[34]
+id=935FB2E8
+versszak=Bridge
+enek=Eljött hozzám, mikor még bűnben éltem
+kotet=MKK énekek
+
+[35]
+id=F4FB6FB0
+versszak=Refr
+enek=Eljött hozzám, mikor még bűnben éltem
+kotet=MKK énekek
+
+[36]
+id=308243E0
+versszak=1
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[37]
+id=D9CD2508
+versszak=2
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[38]
+id=F180C051
+versszak=3
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[39]
+id=E0E6E845
+versszak=4
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[40]
+id=3485D278
+versszak=5
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[41]
+id=8E02AB4C
+versszak=6
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[42]
+id=9A70F226
+versszak=1
+enek=159
+kotet=Tápió Menti Énekkönyv
+
+[43]
+id=9FAA4C44
+versszak=1
+enek=12
+kotet=Tápió Menti Énekkönyv
+
+[44]
+id=852A4B7A
+versszak=2
+enek=310
+kotet=Szent Vagy, Uram!
+
+[45]
+id=4153F822
+versszak=3
+enek=310
+kotet=Szent Vagy, Uram!
+
+[46]
+id=86F03B7B
+versszak=verzikulus latin
+enek=310
+kotet=Szent Vagy, Uram!
+
+[47]
+id=87DB7754
+versszak=1
+enek=121
+kotet=Dalolj az Úrnak!
+
+[48]
+id=922FE066
+versszak=2
+enek=121
+kotet=Dalolj az Úrnak!
+
+[49]
+id=674A78DF
+versszak=3
+enek=121
+kotet=Dalolj az Úrnak!
+
+[50]
+id=7DF29215
+versszak=4
+enek=121
+kotet=Dalolj az Úrnak!
+
+[51]
+id=0C82B37B
+versszak=5
+enek=121
+kotet=Dalolj az Úrnak!
+
+[52]
+id=E2A62BE1
+versszak=6
+enek=121
+kotet=Dalolj az Úrnak!
+
+[53]
+id=7D2AB6EF
+versszak=2
+enek=79
+kotet=Taize-i énekek
