@@ -1,5 +1,5 @@
 [main]
-diaszam=25
+diaszam=28
 utf8=1
 
 [1]
@@ -91,69 +91,92 @@ caption=
 lines=3
 line0=Templom: ÖMCs, LMCs, MMCs 
 line1=Domboldal: SMCs, KMCs 
-line2=Köziterem: BMCs, HMCs, TMCs, MKKatt 
+line2=Köziterem: BMCs, HMCs, TMCs, FotóTeam 
 soundfile=
 fotofile=
 
 [15]
-separator=<Záróima> 
+caption= 
+lines=5
+line0=Templom: Szeder, Avokádó, Gesztenye, Pisztácia, Áfonya, Parázs, Csipkebogyó, Jégmadár, Füge, Gránátalma, Nefelejcs, Cseresznyevirág 
+line1=Köziterem: Méz, Borsó, Mandula, Pipacs 
+line2=Alagsor: Bambusz 
+line3=Alagsor konyha: Mangó 
+line4=BMEQFB08: Ultraibolya, Bodza 
 soundfile=
 fotofile=
 
 [16]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[17]
 id=D85CFAAF
 versszak=1
 enek=35
 kotet=Tápió Menti Énekkönyv
 
-[17]
+[18]
 separator=missing szt istván 
 soundfile=
 fotofile=
 
-[18]
+[19]
+id=AE0E007F
+versszak=1
+enek=90   István
+kotet=Kék Könyv
+
+[20]
+id=04169AB8
+versszak=2
+enek=90   István
+kotet=Kék Könyv
+
+[21]
 id=A6985A78
 versszak=1
 enek=Az Úrral való egység imája
 kotet=MKK Közös imádságok
 
-[19]
+[22]
 id=1B4D9633
 versszak=2
 enek=Az Úrral való egység imája
 kotet=MKK Közös imádságok
 
-[20]
+[23]
 id=4D56A67F
 versszak=v1
 enek=106  Úr Jézus, Megváltóm
 kotet=Szent András Énekfüzet
 
-[21]
+[24]
 id=5C3FB245
 versszak=c1
 enek=106  Úr Jézus, Megváltóm
 kotet=Szent András Énekfüzet
 
-[22]
+[25]
 id=0C559CE5
 versszak=1
 enek=276
 kotet=Emmánuel közösség
 
-[23]
+[26]
 id=86F10EB7
 versszak=2
 enek=276
 kotet=Emmánuel közösség
 
-[24]
+[27]
 id=1A0ABFB5
 versszak=1
 enek=74
 kotet=Taize-i énekek
 
-[25]
+[28]
 id=5264A9EA
 versszak=2
 enek=74
