@@ -1,0 +1,266 @@
+[main]
+diaszam=44
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=0BCDA120
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[5]
+id=A0CD08C6
+versszak=1
+enek=1
+kotet=Dalolj az Úrnak!
+
+[6]
+id=6E09FF92
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[7]
+id=162C0D16
+versszak=2
+enek=1
+kotet=Dalolj az Úrnak!
+
+[8]
+id=0BCDA121
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[9]
+kep=aa7c1c7d-a86e-4f47-af1d-d9ace8340014.jpg
+soundfile=
+fotofile=
+
+[10]
+id=9A70F226
+versszak=1
+enek=159
+kotet=Tápió Menti Énekkönyv
+
+[11]
+kep=feladatok.png
+soundfile=
+fotofile=
+
+[12]
+kep=635186328_1674136433998915_3613009279647937967_n.jpg
+soundfile=
+fotofile=
+
+[13]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[14]
+caption= 
+lines=5
+line0=Templom: Füge, Nefelecs, Méz, Avokdó, Ultraibolya, GEsztenye, Parázs, Bambus, CSipkebogyó, Pipacs 
+line1=Köziterem: Cseresznyevirág, Pisztácia, Áfony, Bodza 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BMGEQFB08: Gránátalma, Szeder, Borsó, Jégmadár 
+soundfile=
+fotofile=
+
+[15]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[16]
+id=CD4117F5
+versszak=1
+enek=113
+kotet=Tápió Menti Énekkönyv
+
+[17]
+id=3E6BDD36
+versszak=1
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[18]
+id=0A565D6F
+versszak=2
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[19]
+id=CF353033
+versszak=3
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[20]
+id=7A48CBB5
+versszak=4
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[21]
+id=D70C7E58
+versszak=5
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[22]
+id=D75B5DD9
+versszak=6
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[23]
+id=3D9F3C1D
+versszak=1
+enek=60
+kotet=Dalolj az Úrnak!
+
+[24]
+id=9512060D
+versszak=2
+enek=60
+kotet=Dalolj az Úrnak!
+
+[25]
+id=980EF47E
+versszak=3
+enek=60
+kotet=Dalolj az Úrnak!
+
+[26]
+id=171C1BC4
+versszak=1
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[27]
+id=71CA9CE5
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[28]
+id=E1B8B206
+versszak=2
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[29]
+id=2A2FB4BA
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[30]
+id=DF9411BA
+versszak=brigde
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[31]
+id=2A2FB4BB
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[32]
+id=00846F87
+versszak=coda
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[33]
+id=BFCF107A
+versszak=1
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[34]
+id=BDA67A17
+versszak=Ref
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[35]
+id=662A918A
+versszak=2
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[36]
+id=A8004721
+versszak=Ref
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[37]
+id=EB11602F
+versszak=1
+enek=189
+kotet=Dalolj az Úrnak!
+
+[38]
+id=5665B24C
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
+
+[39]
+id=A686A64A
+versszak=2
+enek=189
+kotet=Dalolj az Úrnak!
+
+[40]
+id=5665B24D
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
+
+[41]
+id=69F0C2D3
+versszak=3
+enek=189
+kotet=Dalolj az Úrnak!
+
+[42]
+id=5665B24E
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
+
+[43]
+id=E37B4D95
+versszak=4
+enek=189
+kotet=Dalolj az Úrnak!
+
+[44]
+id=5665B24F
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
