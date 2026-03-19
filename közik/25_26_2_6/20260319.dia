@@ -1,0 +1,301 @@
+[main]
+diaszam=48
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=40294E95
+versszak=1
+enek=39B  Indulj és menj
+kotet=Kék Könyv
+
+[5]
+id=48A01C8F
+versszak=2
+enek=39B  Indulj és menj
+kotet=Kék Könyv
+
+[6]
+id=0BCDA120
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[7]
+id=A0CD08C6
+versszak=1
+enek=1
+kotet=Dalolj az Úrnak!
+
+[8]
+id=6E09FF92
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[9]
+id=162C0D16
+versszak=2
+enek=1
+kotet=Dalolj az Úrnak!
+
+[10]
+id=0BCDA121
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[11]
+caption= 
+lines=3
+line0=„Legszívesebben csak kinevetném, ahogy oly sokan mások.” 
+line1=Félsz, hogy hasonlóan fogadnának, ha te beszélnél másoknak 
+line2=az evangéliumról? 
+soundfile=
+fotofile=
+
+[12]
+caption= 
+lines=4
+line0=„Hiszen én kifejezetten szép karriert építettem fel magamnak! 
+line1=Hát nem ez a legfontosabb?” 
+line2=Ki tudnál lépni a megszokott, biztonságot nyújtó életből, ha 
+line3=Isten misszióba hívna? 
+soundfile=
+fotofile=
+
+[13]
+caption= 
+lines=3
+line0=„Nincs szüksége rám! Mit segíthetnék én neki?” 
+line1=Te is úgy érzed, hogy érdemben nem tudnál hozzátenni a 
+line2=keresztény misszióhoz? Miért? 
+soundfile=
+fotofile=
+
+[14]
+id=A5C0412D
+versszak=1
+enek=283
+kotet=Tápió Menti Énekkönyv
+
+[15]
+id=2E1DDCEF
+versszak=2
+enek=283
+kotet=Tápió Menti Énekkönyv
+
+[16]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[17]
+kep=feladatok.png
+soundfile=
+fotofile=
+
+[18]
+caption= 
+lines=5
+line0=Templom: Füge, Gránátalma, Nefelejcs, Szeder, Avokádó, Ultraibolya, Gesztenye, Parázs, Bambusz, Bodza 
+line1=Köziterem: Borsó, Mandula, Áfonya, Csipkebogyó, Jégmadár 
+line2=Alagsor: Cseresznyevirág 
+line3=Alagsor konyha: Mangó 
+line4=BMEQFB08: Méz, Pisztácia, Pipacs 
+soundfile=
+fotofile=
+
+[19]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[20]
+id=D41337C2
+versszak=1
+enek=6
+kotet=Tápió Menti Énekkönyv
+
+[21]
+separator=anima christi 
+soundfile=
+fotofile=
+
+[22]
+id=F2056BE8
+versszak=Refr
+enek=
+kotet=MKK énekek
+
+[23]
+id=4A42187C
+versszak=1
+enek=
+kotet=MKK énekek
+
+[24]
+id=CC793F28
+versszak=Refr
+enek=
+kotet=MKK énekek
+
+[25]
+id=E0F4EB4D
+versszak=2
+enek=
+kotet=MKK énekek
+
+[26]
+id=CC793F29
+versszak=Refr
+enek=
+kotet=MKK énekek
+
+[27]
+id=F35114AE
+versszak=3
+enek=
+kotet=MKK énekek
+
+[28]
+id=7E4460C5
+versszak=Refr
+enek=
+kotet=MKK énekek
+
+[29]
+id=FFBF7943
+versszak=1
+enek=139
+kotet=Dalolj az Úrnak!
+
+[30]
+id=FC5BCFF1
+versszak=2
+enek=139
+kotet=Dalolj az Úrnak!
+
+[31]
+id=9C535679
+versszak=3
+enek=139
+kotet=Dalolj az Úrnak!
+
+[32]
+id=02A88771
+versszak=4
+enek=139
+kotet=Dalolj az Úrnak!
+
+[33]
+id=2395CD40
+versszak=Refr
+enek=202
+kotet=Emmánuel közösség
+
+[34]
+id=A7893587
+versszak=1
+enek=202
+kotet=Emmánuel közösség
+
+[35]
+id=2395CD41
+versszak=Refr
+enek=202
+kotet=Emmánuel közösség
+
+[36]
+id=5AA2B145
+versszak=2
+enek=202
+kotet=Emmánuel közösség
+
+[37]
+id=2395CD42
+versszak=Refr
+enek=202
+kotet=Emmánuel közösség
+
+[38]
+id=5803EF5A
+versszak=5 latin
+enek=155
+kotet=Éneklő Egyház
+
+[39]
+id=F55997E7
+versszak=6 latin
+enek=155
+kotet=Éneklő Egyház
+
+[40]
+id=70D2200B
+versszak=verz(latin)
+enek=155
+kotet=Éneklő Egyház
+
+[41]
+id=75A0203D
+versszak=Refr
+enek=80
+kotet=Emmánuel közösség
+
+[42]
+id=2702D228
+versszak=1
+enek=80
+kotet=Emmánuel közösség
+
+[43]
+id=75A0203E
+versszak=Refr
+enek=80
+kotet=Emmánuel közösség
+
+[44]
+id=808F9007
+versszak=2
+enek=80
+kotet=Emmánuel közösség
+
+[45]
+id=75A0203F
+versszak=Refr
+enek=80
+kotet=Emmánuel közösség
+
+[46]
+id=DA1C4DE6
+versszak=3
+enek=80
+kotet=Emmánuel közösség
+
+[47]
+id=75A02040
+versszak=Refr
+enek=80
+kotet=Emmánuel közösség
+
+[48]
+id=7D2AB6EF
+versszak=2
+enek=79
+kotet=Taize-i énekek
