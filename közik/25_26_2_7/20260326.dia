@@ -1,0 +1,250 @@
+[main]
+diaszam=41
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=CA11559C
+versszak=1
+enek=244
+kotet=Tápió Menti Énekkönyv
+
+[5]
+id=BFCF107A
+versszak=1
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[6]
+id=BDA67A17
+versszak=Ref
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[7]
+id=662A918A
+versszak=2
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[8]
+id=A8004721
+versszak=Ref
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[9]
+id=697AD6B9
+versszak=1
+enek=Jézus életem
+kotet=Gitáros énekek
+
+[10]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[11]
+kep=beosztás.png
+soundfile=
+fotofile=
+
+[12]
+caption= 
+lines=5
+line0=Templom: Gránátalma, Nefelejcs, Cseresznyevirág, Méz, Szeder, Ultraibolya,Pisztácia, Áfonya, Bambusz, Csipkebogyó, Jégmadár 
+line1=Köziterem: Avokádó, Borsó, Parázs, Pipacs 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BMEQFB08: Füge, Gesztenye, Bodza 
+soundfile=
+fotofile=
+
+[13]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[14]
+id=FF4E06D8
+versszak=Ref
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[15]
+id=00AF270D
+versszak=1
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[16]
+id=E83BD4E0
+versszak=2
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[17]
+id=171C1BC4
+versszak=1
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[18]
+id=71CA9CE5
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[19]
+id=E1B8B206
+versszak=2
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[20]
+id=2A2FB4BA
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[21]
+id=DF9411BA
+versszak=brigde
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[22]
+id=2A2FB4BB
+versszak=Refr
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[23]
+id=00846F87
+versszak=coda
+enek=Lábadnál térdelek
+kotet=MKK énekek
+
+[24]
+id=683B35E3
+versszak=1
+enek=Nincs elég dícsérő szó
+kotet=MKK énekek
+
+[25]
+id=841217F4
+versszak=2
+enek=Nincs elég dícsérő szó
+kotet=MKK énekek
+
+[26]
+id=F259FED3
+versszak=Refr
+enek=Nincs elég dícsérő szó
+kotet=MKK énekek
+
+[27]
+id=3020A4F6
+versszak=3
+enek=Nincs elég dícsérő szó
+kotet=MKK énekek
+
+[28]
+id=A2649175
+versszak=4
+enek=Nincs elég dícsérő szó
+kotet=MKK énekek
+
+[29]
+id=853F6509
+versszak=Refr
+enek=Nincs elég dícsérő szó
+kotet=MKK énekek
+
+[30]
+id=F6D70787
+versszak=Híd
+enek=Nincs elég dícsérő szó
+kotet=MKK énekek
+
+[31]
+id=151DE92B
+versszak=v1
+enek=43  Ott a Via Dolorosán
+kotet=Szent András Énekfüzet
+
+[32]
+id=EAE2391F
+versszak=v2
+enek=43  Ott a Via Dolorosán
+kotet=Szent András Énekfüzet
+
+[33]
+id=B553B56F
+versszak=c1
+enek=43  Ott a Via Dolorosán
+kotet=Szent András Énekfüzet
+
+[34]
+id=6D7122B1
+versszak=e1
+enek=43  Ott a Via Dolorosán
+kotet=Szent András Énekfüzet
+
+[35]
+id=308243E0
+versszak=1
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[36]
+id=D9CD2508
+versszak=2
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[37]
+id=F180C051
+versszak=3
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[38]
+id=E0E6E845
+versszak=4
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[39]
+id=3485D278
+versszak=5
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[40]
+id=8E02AB4C
+versszak=6
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[41]
+id=BEC2D446
+versszak=1
+enek=Virrassz még
+kotet=Gitáros énekek
