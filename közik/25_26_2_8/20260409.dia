@@ -1,0 +1,298 @@
+[main]
+diaszam=49
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=4205D634
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[5]
+id=A4A9E74A
+versszak=1
+enek=100
+kotet=Emmánuel közösség
+
+[6]
+id=4205D635
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[7]
+id=588FF934
+versszak=2
+enek=100
+kotet=Emmánuel közösség
+
+[8]
+id=E21B92EB
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[9]
+id=D6F1185D
+versszak=3
+enek=100
+kotet=Emmánuel közösség
+
+[10]
+id=4205D636
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[11]
+id=A6985A78
+versszak=1
+enek=Az Úrral való egység imája
+kotet=MKK Közös imádságok
+
+[12]
+id=1B4D9633
+versszak=2
+enek=Az Úrral való egység imája
+kotet=MKK Közös imádságok
+
+[13]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[14]
+kep=Felelosok.png
+soundfile=
+fotofile=
+
+[15]
+caption= 
+lines=5
+line0=Templom: Füge, Gránátalma, Nefelejcs, Méz, Szeder, Avokádó, Borsó, Gesztenye, Parázs, Bambusz, Pipacs 
+line1=Köziterem: Ultraibolya, Áfonya, Csipkebogyó, Bodza 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BME QFB08: Cseresznyevirág, Pisztácia, Jégmadár 
+soundfile=
+fotofile=
+
+[16]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[17]
+id=974EF6CA
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[18]
+id=60231FDE
+versszak=1
+enek=47
+kotet=Gitárosok
+
+[19]
+id=974EF6CB
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[20]
+id=18C5A29D
+versszak=2
+enek=47
+kotet=Gitárosok
+
+[21]
+id=974EF6CC
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[22]
+id=335F7613
+versszak=3
+enek=47
+kotet=Gitárosok
+
+[23]
+id=974EF6CD
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[24]
+id=FBAC9CB7
+versszak=1
+enek=15
+kotet=Tápió Menti Énekkönyv
+
+[25]
+id=DE067B11
+versszak=2
+enek=15
+kotet=Tápió Menti Énekkönyv
+
+[26]
+id=7B562829
+versszak=Ref
+enek=15
+kotet=Tápió Menti Énekkönyv
+
+[27]
+id=BDFF555B
+versszak=3
+enek=15
+kotet=Tápió Menti Énekkönyv
+
+[28]
+id=81E0DD70
+versszak=4
+enek=15
+kotet=Tápió Menti Énekkönyv
+
+[29]
+id=024BFE9A
+versszak=5
+enek=15
+kotet=Tápió Menti Énekkönyv
+
+[30]
+id=7B562829
+versszak=Ref
+enek=15
+kotet=Tápió Menti Énekkönyv
+
+[31]
+id=FF4E06D8
+versszak=Ref
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[32]
+id=00AF270D
+versszak=1
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[33]
+id=FF4E06D8
+versszak=Ref
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[34]
+id=E83BD4E0
+versszak=2
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[35]
+id=FF4E06D8
+versszak=Ref
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[36]
+id=D9FE0379
+versszak=1
+enek=Reményt és jövőt
+kotet=MKK énekek
+
+[37]
+id=0C85C925
+versszak=2
+enek=Reményt és jövőt
+kotet=MKK énekek
+
+[38]
+id=ED4E74E1
+versszak=Refr
+enek=Reményt és jövőt
+kotet=MKK énekek
+
+[39]
+id=D9FE0379
+versszak=1
+enek=Reményt és jövőt
+kotet=MKK énekek
+
+[40]
+id=0C85C925
+versszak=2
+enek=Reményt és jövőt
+kotet=MKK énekek
+
+[41]
+id=ED4E74E1
+versszak=Refr
+enek=Reményt és jövőt
+kotet=MKK énekek
+
+[42]
+id=3E6BDD36
+versszak=1
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[43]
+id=0A565D6F
+versszak=2
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[44]
+id=CF353033
+versszak=3
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[45]
+id=7A48CBB5
+versszak=4
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[46]
+id=D70C7E58
+versszak=5
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[47]
+id=D75B5DD9
+versszak=6
+enek=Szállj, dalom
+kotet=Gitáros énekek
+
+[48]
+id=2D567627
+versszak=
+enek=96
+kotet=Taize-i énekek
+
+[49]
+id=A8452028
+versszak=1
+enek=149
+kotet=Tápió Menti Énekkönyv
