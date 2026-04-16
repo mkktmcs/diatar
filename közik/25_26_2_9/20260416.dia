@@ -1,0 +1,296 @@
+[main]
+diaszam=49
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=B0404554
+versszak=v1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[5]
+id=A2D3467C
+versszak=c1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[6]
+id=59929C34
+versszak=v2
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[7]
+id=A0F17989
+versszak=1
+enek=12
+kotet=Dalolj az Úrnak!
+
+[8]
+id=6E6E0A64
+versszak=Refr
+enek=12
+kotet=Dalolj az Úrnak!
+
+[9]
+id=1177746F
+versszak=2
+enek=12
+kotet=Dalolj az Úrnak!
+
+[10]
+id=6E6E0A65
+versszak=Refr
+enek=12
+kotet=Dalolj az Úrnak!
+
+[11]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[12]
+kep=beosztas.png
+soundfile=
+fotofile=
+
+[13]
+caption= 
+lines=5
+line0=Templom: Füge, Gránátalma, Nefelecs, Méz, Borsó, Gesztenye, Mandula, Pisztácia, Áfonya, Parázs, Csipkebogyó 
+line1=Köziterem: Szeder, Avokádó, Ultraibolya, Bambusz 
+line2=Alagsor: Cseresznyevirág 
+line3=Alagsor konyha: Mangó 
+line4=BMEQFB08: Bodza, Jégmadár, Pipacs 
+soundfile=
+fotofile=
+
+[14]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[15]
+id=B60BC92E
+versszak=1
+enek=115
+kotet=Tápió Menti Énekkönyv
+
+[16]
+id=6FED1D90
+versszak=Refr
+enek=91
+kotet=Emmánuel közösség
+
+[17]
+id=4CE88EF4
+versszak=1
+enek=91
+kotet=Emmánuel közösség
+
+[18]
+id=6FED1D91
+versszak=Refr
+enek=91
+kotet=Emmánuel közösség
+
+[19]
+id=A6754CD3
+versszak=2
+enek=91
+kotet=Emmánuel közösség
+
+[20]
+id=6FED1D92
+versszak=Refr
+enek=91
+kotet=Emmánuel közösség
+
+[21]
+id=E6B59778
+versszak=3
+enek=91
+kotet=Emmánuel közösség
+
+[22]
+id=6FED1D93
+versszak=Refr
+enek=91
+kotet=Emmánuel közösség
+
+[23]
+separator=az Úr dicsérete 
+soundfile=
+fotofile=
+
+[24]
+id=57FC6367
+versszak=1
+enek=Az Úr dicsérete
+kotet=Gitáros énekek
+
+[25]
+id=1247CFC8
+versszak=2
+enek=Az Úr dicsérete
+kotet=Gitáros énekek
+
+[26]
+id=2606F389
+versszak=3
+enek=Az Úr dicsérete
+kotet=Gitáros énekek
+
+[27]
+id=DB4633B4
+versszak=4
+enek=Az Úr dicsérete
+kotet=Gitáros énekek
+
+[28]
+id=FD326AB9
+versszak=5
+enek=Az Úr dicsérete
+kotet=Gitáros énekek
+
+[29]
+id=85658196
+versszak=6
+enek=Az Úr dicsérete
+kotet=Gitáros énekek
+
+[30]
+id=39331169
+versszak=7
+enek=Az Úr dicsérete
+kotet=Gitáros énekek
+
+[31]
+separator=Adjunk hálát az Úrnak 
+soundfile=
+fotofile=
+
+[32]
+id=CD1BA89C
+versszak=1
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[33]
+id=29F5AC30
+versszak=Ref
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[34]
+id=E4E066C2
+versszak=2
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[35]
+id=65BF638B
+versszak=3
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[36]
+id=11A9113F
+versszak=1
+enek=Föltámadt, alleluja
+kotet=Gitáros énekek
+
+[37]
+id=E9A53D1F
+versszak=2
+enek=Föltámadt, alleluja
+kotet=Gitáros énekek
+
+[38]
+id=28ADCCCD
+versszak=3
+enek=Föltámadt, alleluja
+kotet=Gitáros énekek
+
+[39]
+id=0034C19E
+versszak=4
+enek=Föltámadt, alleluja
+kotet=Gitáros énekek
+
+[40]
+id=E17CC9B8
+versszak=5
+enek=Föltámadt, alleluja
+kotet=Gitáros énekek
+
+[41]
+id=4C4FB3E6
+versszak=6
+enek=Föltámadt, alleluja
+kotet=Gitáros énekek
+
+[42]
+id=4A76F649
+versszak=2
+enek=Pange lingua
+kotet=Latin imák és válaszok
+
+[43]
+id=B6AAAE76
+versszak=3
+enek=Pange lingua
+kotet=Latin imák és válaszok
+
+[44]
+id=906F77EA
+versszak=verzikulus
+enek=Pange lingua
+kotet=Latin imák és válaszok
+
+[45]
+id=0B00A048
+versszak=Ref
+enek=2
+kotet=Tápió Menti Énekkönyv
+
+[46]
+id=EC72F2A8
+versszak=1
+enek=2
+kotet=Tápió Menti Énekkönyv
+
+[47]
+id=AE3152F3
+versszak=2
+enek=2
+kotet=Tápió Menti Énekkönyv
+
+[48]
+id=B8AB889F
+versszak=3
+enek=2
+kotet=Tápió Menti Énekkönyv
+
+[49]
+id=7D2F82E4
+versszak=1
+enek=Jézus a jóság
+kotet=MKK énekek
