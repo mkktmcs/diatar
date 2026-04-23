@@ -1,0 +1,347 @@
+[main]
+diaszam=54
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+caption= 
+lines=6
+line0=Szólít Isten, neveden szólít, köszönt. 
+line1=Hallod Őt, válaszolsz? Hogyan szólítod meg? 
+line2=Azt mondja neked, hogy: Örülök, hogy itt vagy, hogy eljöttél ma este is és olyan emberekkel 
+line3=töltöd ezt az estét, akik nagyon szeretnek engem. 
+line4=Köszönöm, hogy rám szánod az idődet! 
+line5=Te hogyan érkeztél meg most? Mit mondanál először Istennek? 
+soundfile=
+fotofile=
+
+[5]
+id=BE1834C5
+versszak=1
+enek=22
+kotet=Dalolj az Úrnak!
+
+[6]
+id=BE8FE894
+versszak=2
+enek=22
+kotet=Dalolj az Úrnak!
+
+[7]
+id=6078183F
+versszak=3
+enek=22
+kotet=Dalolj az Úrnak!
+
+[8]
+id=8D98643E
+versszak=4
+enek=22
+kotet=Dalolj az Úrnak!
+
+[9]
+id=0A435A15
+versszak=5
+enek=22
+kotet=Dalolj az Úrnak!
+
+[10]
+caption= 
+lines=3
+line0=Az imádság kapcsolat Istennel, párbeszéd. Nagy dolgokra gondolunk, amit imádság név alatt 
+line1=csinálunk. De Isten nem vár nagy dolgokat az imában, sőt ez az ördög kísértése. Isten arra 
+line2=vágyik, hogy önmagad legyél az imában, hogy őszinte legyél. 
+soundfile=
+fotofile=
+
+[11]
+caption= 
+lines=3
+line0=Köszönjük Neked, Istenünk, hogy kapcsolatban lehetünk Veled. Ez a kapcsolat folyamatos, még 
+line1=akkor is, ha mi nem mindig érezzük. Hálásak vagyunk, hogy ezek a csütörtök esték a 
+line2=találkozások örömében mély kapcsolódási pontok Veled. 
+soundfile=
+fotofile=
+
+[12]
+id=97BB8A8A
+versszak=Refr
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[13]
+id=FBF7C93A
+versszak=1
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[14]
+id=97BB8A8B
+versszak=Refr
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[15]
+id=55848719
+versszak=2
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[16]
+id=97BB8A8C
+versszak=Refr
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[17]
+id=48DE4D7C
+versszak=3
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[18]
+id=97BB8A8D
+versszak=Refr
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[19]
+id=467DC7D4
+versszak=4
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[20]
+id=DB843AEB
+versszak=Refr
+enek=Gyermekem, én szomjazom
+kotet=MKK énekek
+
+[21]
+caption= 
+lines=5
+line0=Sokszor ott van bennünk az a kérdés, hogy mennyi időt kell imádsággal tölteni, de a lényeg nem 
+line1=így található meg. Az imát nem csak én végzem, az ima kétoldalú közös történés. Az ima egy 
+line2=olyan kapcsolat, amiben ketten vagyunk. Amikor felteszed azt a kérdést, hogy mennyi időt lenne 
+line3=jó imádkozni, Isten azt kérdezni tőled: “Szerinted mennyi időt lenne jó azzal tölteni, akit 
+line4=szeretsz?” 
+soundfile=
+fotofile=
+
+[22]
+caption= 
+lines=2
+line0=Vigyük tovább magunkkal ezt a kérdést. Köszönjük Istenünk, hogy Te megmutatod nekünk, hogy 
+line1=nem arra vágysz, hogy erőlködjünk az imában, hanem hogy élvezzük a Veled való együttlétet! 
+soundfile=
+fotofile=
+
+[23]
+id=D93B3440
+versszak=1
+enek=173
+kotet=Dalolj az Úrnak!
+
+[24]
+id=6D748133
+versszak=2
+enek=173
+kotet=Dalolj az Úrnak!
+
+[25]
+id=31473181
+versszak=Refr
+enek=173
+kotet=Dalolj az Úrnak!
+
+[26]
+id=AEB75E7A
+versszak=3
+enek=173
+kotet=Dalolj az Úrnak!
+
+[27]
+id=94CCA095
+versszak=4
+enek=173
+kotet=Dalolj az Úrnak!
+
+[28]
+id=31473182
+versszak=Refr
+enek=173
+kotet=Dalolj az Úrnak!
+
+[29]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[30]
+kep=felelosok.png
+soundfile=
+fotofile=
+
+[31]
+caption=Csoportbeosztás 
+lines=5
+line0=Templom: Gránátalma, Méz, Szeder, Avokádó, Ultraibolya, Gesztenye, Pisztácia, Parázs, Bambusz, Csipkebogyó, Jégmadár 
+line1=Köziterem: Füge, Cseresznyevirág, Borsó, Pipacs 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BMQFB08: Nefelejcs, Áfonya, Bodza 
+soundfile=
+fotofile=
+
+[32]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[33]
+id=D1FF4379
+versszak=v1
+enek=63  Dicsérem Neved
+kotet=Szent András Énekfüzet
+
+[34]
+id=8BFD4FD1
+versszak=v2
+enek=63  Dicsérem Neved
+kotet=Szent András Énekfüzet
+
+[35]
+id=974EF6CA
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[36]
+id=60231FDE
+versszak=1
+enek=47
+kotet=Gitárosok
+
+[37]
+id=974EF6CB
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[38]
+id=18C5A29D
+versszak=2
+enek=47
+kotet=Gitárosok
+
+[39]
+id=974EF6CC
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[40]
+id=335F7613
+versszak=3
+enek=47
+kotet=Gitárosok
+
+[41]
+id=974EF6CD
+versszak=R
+enek=47
+kotet=Gitárosok
+
+[42]
+id=D2568502
+versszak=1
+enek=94
+kotet=Emmánuel közösség
+
+[43]
+id=75C1BF0C
+versszak=Refr
+enek=94
+kotet=Emmánuel közösség
+
+[44]
+id=2BE342E1
+versszak=2
+enek=94
+kotet=Emmánuel közösség
+
+[45]
+id=75C1BF0D
+versszak=Refr
+enek=94
+kotet=Emmánuel közösség
+
+[46]
+id=1234F057
+versszak=1
+enek=17
+kotet=Tápió Menti Énekkönyv
+
+[47]
+id=CC1D4B66
+versszak=v1
+enek=272  A fény Királya Ő
+kotet=Szent András Énekfüzet
+
+[48]
+id=3A5BE5E3
+versszak=v2
+enek=272  A fény Királya Ő
+kotet=Szent András Énekfüzet
+
+[49]
+id=61EAFC61
+versszak=c1
+enek=272  A fény Királya Ő
+kotet=Szent András Énekfüzet
+
+[50]
+id=3E39932E
+versszak=v3
+enek=272  A fény Királya Ő
+kotet=Szent András Énekfüzet
+
+[51]
+id=DF02840F
+versszak=v4
+enek=272  A fény Királya Ő
+kotet=Szent András Énekfüzet
+
+[52]
+id=21C3205D
+versszak=b1
+enek=272  A fény Királya Ő
+kotet=Szent András Énekfüzet
+
+[53]
+id=1A0ABFB5
+versszak=1
+enek=74
+kotet=Taize-i énekek
+
+[54]
+id=5264A9EA
+versszak=2
+enek=74
+kotet=Taize-i énekek
