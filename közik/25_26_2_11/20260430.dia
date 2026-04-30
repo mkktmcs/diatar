@@ -1,0 +1,694 @@
+[main]
+diaszam=115
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=E54FC3ED
+versszak=Deus, in adiutorium
+enek=Deus, in adiutorium
+kotet=MKK Zsolozsma
+
+[5]
+id=75B6C21A
+versszak=Gloria Patri
+enek=Deus, in adiutorium
+kotet=MKK Zsolozsma
+
+[6]
+id=778EE9D4
+versszak=Ant
+enek=Zsolt 123.
+kotet=MKK Zsolozsma
+
+[7]
+id=19D8781E
+versszak=1-2
+enek=Zsolt 123.
+kotet=MKK Zsolozsma
+
+[8]
+id=87373414
+versszak=3-4
+enek=Zsolt 123.
+kotet=MKK Zsolozsma
+
+[9]
+id=913423AA
+versszak=dox
+enek=Zsolt 123.
+kotet=MKK Zsolozsma
+
+[10]
+id=E756D0D9
+versszak=Ant
+enek=Zsolt 123.
+kotet=MKK Zsolozsma
+
+[11]
+id=AAFEB14F
+versszak=Ant
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[12]
+id=B84F4109
+versszak=1-2
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[13]
+id=3AEDAFA5
+versszak=3-4
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[14]
+id=DFF92438
+versszak=5-6
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[15]
+id=E1FD3D7D
+versszak=7-8
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[16]
+id=1F7AD63B
+versszak=9-10
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[17]
+id=F64A91E2
+versszak=11-12
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[18]
+id=521C4F9E
+versszak=13-14
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[19]
+id=D0C5975B
+versszak=15-16
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[20]
+id=43E0F171
+versszak=17-18
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[21]
+id=F8023E40
+versszak=19-20
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[22]
+id=BF5CF97C
+versszak=21-22
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[23]
+id=4C67E259
+versszak=23-24
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[24]
+id=CE7F7138
+versszak=25-26
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[25]
+id=791504B5
+versszak=27
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[26]
+id=D3BA3BE0
+versszak=dox
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[27]
+id=A87C7651
+versszak=Ant
+enek=Zsolt 135.
+kotet=MKK Zsolozsma
+
+[28]
+id=28A6F6B1
+versszak=Ant
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[29]
+id=AD7AF3EF
+versszak=1-2
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[30]
+id=8A76D9B9
+versszak=3-4
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[31]
+id=C6D726C5
+versszak=5-6
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[32]
+id=FC92FBD6
+versszak=7-8
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[33]
+id=510C03C6
+versszak=9-10
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[34]
+id=6B39A3E3
+versszak=11-12
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[35]
+id=8A374FC5
+versszak=dox
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[36]
+id=28A6F6B2
+versszak=Ant
+enek=Zsolt 136.
+kotet=MKK Zsolozsma
+
+[37]
+id=89B589E9
+versszak=Ant
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[38]
+id=BDC3D069
+versszak=1-2
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[39]
+id=0A0B1D11
+versszak=3-4
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[40]
+id=953962EB
+versszak=5-6
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[41]
+id=5CD59B0B
+versszak=7-8
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[42]
+id=1A12E19A
+versszak=9
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[43]
+id=EA2BFD9C
+versszak=dox
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[44]
+id=89B589EA
+versszak=Ant
+enek=Zsolt 137.
+kotet=MKK Zsolozsma
+
+[45]
+id=A0FDEC56
+versszak=Ant
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[46]
+id=8692AC18
+versszak=1-2
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[47]
+id=E34B0A1A
+versszak=3-4
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[48]
+id=182E12AA
+versszak=5-6
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[49]
+id=77C3251D
+versszak=7-8
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[50]
+id=69F01781
+versszak=9-10
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[51]
+id=EF008CCB
+versszak=11-12
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[52]
+id=04B6EED0
+versszak=13-14
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[53]
+id=88F2481B
+versszak=15-16
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[54]
+id=E603CEBB
+versszak=17-18
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[55]
+id=DDA6A9A5
+versszak=19-20
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[56]
+id=D238DD72
+versszak=21-22
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[57]
+id=FC42090E
+versszak=23
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[58]
+id=DEB46751
+versszak=dox
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[59]
+id=A0FDEC57
+versszak=Ant
+enek=Zsolt 138.
+kotet=MKK Zsolozsma
+
+[60]
+id=A94510A8
+versszak=Húsvéti idő
+enek=Responzórium
+kotet=MKK Zsolozsma
+
+[61]
+id=8825E1C1
+versszak=1
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[62]
+id=CEFC9FE1
+versszak=2
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[63]
+id=B3C63E35
+versszak=3
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[64]
+id=DC190F88
+versszak=4
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[65]
+id=D654CF17
+versszak=5
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[66]
+id=E7FD563A
+versszak=6
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[67]
+id=84A24F7F
+versszak=7
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[68]
+id=CD6A3669
+versszak=8
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[69]
+id=9E1D2A96
+versszak=9
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[70]
+id=3610303D
+versszak=10
+enek=Himusz
+kotet=MKK Zsolozsma
+
+[71]
+id=3A78A223
+versszak=Húsvéti időben
+enek=Verzikulus
+kotet=MKK Zsolozsma
+
+[72]
+id=ADA7A3AE
+versszak=Ant1
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[73]
+id=943577E6
+versszak=1-2
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[74]
+id=D3802C01
+versszak=3-4
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[75]
+id=5CC0F349
+versszak=Ant1
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[76]
+id=DFEAA46D
+versszak=Ant2
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[77]
+id=88958B7A
+versszak=5-6
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[78]
+id=4EC0F8DA
+versszak=7-8
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[79]
+id=68660252
+versszak=Ant2
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[80]
+id=686728AD
+versszak=Ant3
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[81]
+id=C3CE08A9
+versszak=9-10
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[82]
+id=A73855C2
+versszak=dox
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[83]
+id=B54C8694
+versszak=Ant3
+enek=Magnificat
+kotet=MKK Zsolozsma
+
+[84]
+id=00B389C2
+versszak=Benedicamus
+enek=Benedicamus Domino
+kotet=MKK Zsolozsma
+
+[85]
+id=C4609E69
+versszak=requiescant
+enek=Benedicamus Domino
+kotet=MKK Zsolozsma
+
+[86]
+id=E6F6D265
+versszak=
+enek=223
+kotet=Dicsérjétek az Urat!
+
+[87]
+id=C6414FE4
+versszak=1
+enek=224
+kotet=Éneklő Egyház
+
+[88]
+id=D42BF49B
+versszak=2
+enek=224
+kotet=Éneklő Egyház
+
+[89]
+id=14FAC33F
+versszak=verzikulus
+enek=224
+kotet=Éneklő Egyház
+
+[90]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[91]
+kep=feladatok.png
+soundfile=
+fotofile=
+
+[92]
+caption=beosztás 
+lines=5
+line0=Templom: Füge, Gránátalma, Cseeresznyevirág, Szeder, Avokádó, Borsó, Ultraibolya, Geszteny, Pisztácia, Áfonya, Prrázs, Bambusz, Pipacs 
+line1=Köziterem: Nefelejcs, Méz, Jégmadár 
+line2=Alagsor, Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BMEQBF08: Csipkebogyó, Bodza 
+soundfile=
+fotofile=
+
+[93]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[94]
+id=5DC9952D
+versszak=1
+enek=151
+kotet=Tápió Menti Énekkönyv
+
+[95]
+id=AB0F6FF8
+versszak=Refr
+enek=162
+kotet=Fiatalok Énekes Könyve
+
+[96]
+id=2B75EBBE
+versszak=1
+enek=162
+kotet=Fiatalok Énekes Könyve
+
+[97]
+id=AB0F6FF9
+versszak=Refr
+enek=162
+kotet=Fiatalok Énekes Könyve
+
+[98]
+id=381C255B
+versszak=2
+enek=162
+kotet=Fiatalok Énekes Könyve
+
+[99]
+id=AB0F6FFA
+versszak=Refr
+enek=162
+kotet=Fiatalok Énekes Könyve
+
+[100]
+id=AB0F6FFB
+versszak=Refr
+enek=162
+kotet=Fiatalok Énekes Könyve
+
+[101]
+id=F2F1EBA5
+versszak=1
+enek=Itt a szívem
+kotet=MKK énekek
+
+[102]
+id=73095D47
+versszak=Refr
+enek=Itt a szívem
+kotet=MKK énekek
+
+[103]
+id=C622FF4F
+versszak=2
+enek=Itt a szívem
+kotet=MKK énekek
+
+[104]
+id=0FE675B8
+versszak=Refr
+enek=Itt a szívem
+kotet=MKK énekek
+
+[105]
+id=C359B2AC
+versszak=Bridge
+enek=Itt a szívem
+kotet=MKK énekek
+
+[106]
+id=07475092
+versszak=1
+enek=292
+kotet=Tápió Menti Énekkönyv
+
+[107]
+id=EB11602F
+versszak=1
+enek=189
+kotet=Dalolj az Úrnak!
+
+[108]
+id=5665B24C
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
+
+[109]
+id=A686A64A
+versszak=2
+enek=189
+kotet=Dalolj az Úrnak!
+
+[110]
+id=5665B24D
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
+
+[111]
+id=69F0C2D3
+versszak=3
+enek=189
+kotet=Dalolj az Úrnak!
+
+[112]
+id=5665B24E
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
+
+[113]
+id=E37B4D95
+versszak=4
+enek=189
+kotet=Dalolj az Úrnak!
+
+[114]
+id=5665B24F
+versszak=Refr
+enek=189
+kotet=Dalolj az Úrnak!
+
+[115]
+id=7D2AB6EF
+versszak=2
+enek=79
+kotet=Taize-i énekek
