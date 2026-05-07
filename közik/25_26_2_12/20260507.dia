@@ -1,0 +1,220 @@
+[main]
+diaszam=36
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=A0F17989
+versszak=1
+enek=12
+kotet=Dalolj az Úrnak!
+
+[5]
+id=6E6E0A64
+versszak=Refr
+enek=12
+kotet=Dalolj az Úrnak!
+
+[6]
+id=1177746F
+versszak=2
+enek=12
+kotet=Dalolj az Úrnak!
+
+[7]
+id=6E6E0A65
+versszak=Refr
+enek=12
+kotet=Dalolj az Úrnak!
+
+[8]
+id=E9D91900
+versszak=v1
+enek=210  Add, hogy a szívemmel
+kotet=Szent András Énekfüzet
+
+[9]
+id=A13256E3
+versszak=p1
+enek=210  Add, hogy a szívemmel
+kotet=Szent András Énekfüzet
+
+[10]
+id=BDFFF03C
+versszak=c1
+enek=210  Add, hogy a szívemmel
+kotet=Szent András Énekfüzet
+
+[11]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[12]
+kep=beosztas.png
+soundfile=
+fotofile=
+
+[13]
+caption=Csoportbeosztás 
+lines=5
+line0=Templom: Füge, Gránátalma, Nefelejcs, Cseresznyevirág, Avokádó, Borsó, Ultraibolya, Pisztácia, Parázs, Bambusz, Csipkebogyó, Bodza 
+line1=Köziterem: Szeder, Gesztenye, Áfonya, Jégmadár 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Mangó 
+line4=BMEQBF08: Méz, Pipacs 
+soundfile=
+fotofile=
+
+[14]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[15]
+id=CD1BA89C
+versszak=1
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[16]
+id=29F5AC30
+versszak=Ref
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[17]
+id=E4E066C2
+versszak=2
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[18]
+id=65BF638B
+versszak=3
+enek=278
+kotet=Tápió Menti Énekkönyv
+
+[19]
+id=F5038CDA
+versszak=1
+enek=327
+kotet=Tápió Menti Énekkönyv
+
+[20]
+id=12DA9267
+versszak=Ref
+enek=327
+kotet=Tápió Menti Énekkönyv
+
+[21]
+id=1DA53F44
+versszak=2
+enek=327
+kotet=Tápió Menti Énekkönyv
+
+[22]
+id=77CCEE56
+versszak=bridge
+enek=327
+kotet=Tápió Menti Énekkönyv
+
+[23]
+id=F09CB075
+versszak=1(Hozsanna, hozsanna, hozsanna Dávid fiának)
+enek=Hozsanna
+kotet=MKK énekek
+
+[24]
+id=88224239
+versszak=2(Dicsőség, dicsőség, a feltámadott Úrnak)
+enek=Hozsanna
+kotet=MKK énekek
+
+[25]
+id=8D72E1CA
+versszak=3(Jézus, Jézus, Jézus Isten báránya)
+enek=Hozsanna
+kotet=MKK énekek
+
+[26]
+id=F2056BE8
+versszak=Refr
+enek=Anima Christi
+kotet=MKK énekek
+
+[27]
+id=4A42187C
+versszak=1
+enek=Anima Christi
+kotet=MKK énekek
+
+[28]
+id=CC793F28
+versszak=Refr
+enek=Anima Christi
+kotet=MKK énekek
+
+[29]
+id=E0F4EB4D
+versszak=2
+enek=Anima Christi
+kotet=MKK énekek
+
+[30]
+id=CC793F29
+versszak=Refr
+enek=Anima Christi
+kotet=MKK énekek
+
+[31]
+id=F35114AE
+versszak=3
+enek=Anima Christi
+kotet=MKK énekek
+
+[32]
+id=7E4460C5
+versszak=Refr
+enek=Anima Christi
+kotet=MKK énekek
+
+[33]
+id=2F8F32FE
+versszak=1
+enek=Jézus, szent neved áldom
+kotet=MKK énekek
+
+[34]
+id=22AD35C3
+versszak=2
+enek=Jézus, szent neved áldom
+kotet=MKK énekek
+
+[35]
+id=DF7CDF7A
+versszak=1
+enek=54
+kotet=Taize-i énekek
+
+[36]
+id=8B61D97B
+versszak=2
+enek=54
+kotet=Taize-i énekek
