@@ -1,0 +1,216 @@
+[main]
+diaszam=35
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=5A64DA86
+versszak=1
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[5]
+id=13BE0519
+versszak=Ref
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[6]
+id=A3BF9980
+versszak=2
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[7]
+id=46113686
+versszak=1
+enek=106
+kotet=Emmánuel közösség
+
+[8]
+id=6A5D25B4
+versszak=Refr.1
+enek=106
+kotet=Emmánuel közösség
+
+[9]
+id=1B9DFFBE
+versszak=2
+enek=106
+kotet=Emmánuel közösség
+
+[10]
+id=5F6C578B
+versszak=Refr.2
+enek=106
+kotet=Emmánuel közösség
+
+[11]
+id=DDE2DE56
+versszak=Átkötés
+enek=106
+kotet=Emmánuel közösség
+
+[12]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[13]
+kep=feladatok.png
+soundfile=
+fotofile=
+
+[14]
+caption= 
+lines=5
+line0=Templom: Füge, Nefelejcs, Méz, Szeder, Avokádó, Borsó, Gesztenye, Pisztácia, Áfonya, Csipkebogyó, Bodza 
+line1=Köziterem: Gránátalma, Ultraibolya, BAmabusz, Pipacs 
+line2=Alagsor: Cseresznyevirág 
+line3=Alagsor konyha: Mangó 
+line4=BMEQBF08: Mandula., Parázs, Jégmadár 
+soundfile=
+fotofile=
+
+[15]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[16]
+id=6289CC1D
+versszak=1
+enek=226/A
+kotet=Tápió Menti Énekkönyv
+
+[17]
+id=5A64DA86
+versszak=1
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[18]
+id=13BE0519
+versszak=Ref
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[19]
+id=A3BF9980
+versszak=2
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[20]
+id=018DB299
+versszak=1
+enek=352
+kotet=Tápió Menti Énekkönyv
+
+[21]
+id=59CB5587
+versszak=Ref
+enek=352
+kotet=Tápió Menti Énekkönyv
+
+[22]
+id=7024AD27
+versszak=2
+enek=352
+kotet=Tápió Menti Énekkönyv
+
+[23]
+id=4B6FEC9B
+versszak=Ref
+enek=352
+kotet=Tápió Menti Énekkönyv
+
+[24]
+caption=Ludate omnes 
+lines=2
+line0=Laudate omnes gents, ladate Dominum! 
+line1=Allelia, allaluia, cantate Domino! 
+soundfile=
+fotofile=
+
+[25]
+id=CA6E9212
+versszak=1
+enek=205 Antifóna Nagyszombattól Pünkösd utáni szombatig
+kotet=Szent Vagy, Uram!
+
+[26]
+id=A15BA8BD
+versszak=2
+enek=205 Antifóna Nagyszombattól Pünkösd utáni szombatig
+kotet=Szent Vagy, Uram!
+
+[27]
+id=852A4B7A
+versszak=2
+enek=310
+kotet=Szent Vagy, Uram!
+
+[28]
+id=4153F822
+versszak=3
+enek=310
+kotet=Szent Vagy, Uram!
+
+[29]
+id=86F03B7B
+versszak=verzikulus latin
+enek=310
+kotet=Szent Vagy, Uram!
+
+[30]
+id=45B5BC2D
+versszak=1
+enek=47B  Boldog az ember
+kotet=Kék Könyv
+
+[31]
+id=386AA3F5
+versszak=2
+enek=47B  Boldog az ember
+kotet=Kék Könyv
+
+[32]
+id=77FF5C37
+versszak=3
+enek=47B  Boldog az ember
+kotet=Kék Könyv
+
+[33]
+id=FF4E06D8
+versszak=Ref
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[34]
+id=00AF270D
+versszak=1
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[35]
+id=E83BD4E0
+versszak=2
+enek=79
+kotet=Tápió Menti Énekkönyv
