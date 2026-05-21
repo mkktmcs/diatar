@@ -1,0 +1,388 @@
+[main]
+diaszam=64
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=406C5891
+versszak=Refr
+enek=171
+kotet=Dalolj az Úrnak!
+
+[5]
+id=692247BE
+versszak=1
+enek=171
+kotet=Dalolj az Úrnak!
+
+[6]
+id=1F0B7170
+versszak=Refr
+enek=171
+kotet=Dalolj az Úrnak!
+
+[7]
+id=28CE22EF
+versszak=2
+enek=171
+kotet=Dalolj az Úrnak!
+
+[8]
+id=71765D62
+versszak=Refr
+enek=171
+kotet=Dalolj az Úrnak!
+
+[9]
+id=029783A4
+versszak=3
+enek=171
+kotet=Dalolj az Úrnak!
+
+[10]
+id=8A508B25
+versszak=Refr
+enek=171
+kotet=Dalolj az Úrnak!
+
+[11]
+id=8ABC9BE2
+versszak=4
+enek=171
+kotet=Dalolj az Úrnak!
+
+[12]
+id=8A508B26
+versszak=Refr
+enek=171
+kotet=Dalolj az Úrnak!
+
+[13]
+id=09D097BD
+versszak=5
+enek=171
+kotet=Dalolj az Úrnak!
+
+[14]
+id=8A508B27
+versszak=Refr
+enek=171
+kotet=Dalolj az Úrnak!
+
+[15]
+id=72A243E4
+versszak=1
+enek=68
+kotet=Tápió Menti Énekkönyv
+
+[16]
+id=496BA40C
+versszak=2
+enek=68
+kotet=Tápió Menti Énekkönyv
+
+[17]
+id=4A82E338
+versszak=3
+enek=68
+kotet=Tápió Menti Énekkönyv
+
+[18]
+id=0EFCE85B
+versszak=4
+enek=68
+kotet=Tápió Menti Énekkönyv
+
+[19]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[20]
+kep=feladatok.png
+soundfile=
+fotofile=
+
+[21]
+caption=Terembeosztás 
+lines=5
+line0=Templom: Füge, Nefelejcs, Méz, Szeder, Borsó, Ultraibolya, Gesztenye, Pisztácia, Parázs, Csipkebogyó, Jégmadár 
+line1=Köziterem: Cseresznyevirág, Avokádó, Mangó, Bodza 
+line2=Alagsor: Mandula 
+line3=Alagsor konyha: Áfonya 
+line4=BMEQBF08: Gránátlama, Bambusz, Pipacs 
+soundfile=
+fotofile=
+
+[22]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[23]
+id=308243E0
+versszak=1
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[24]
+id=D9CD2508
+versszak=2
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[25]
+id=F180C051
+versszak=3
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[26]
+id=E0E6E845
+versszak=4
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[27]
+id=3485D278
+versszak=5
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[28]
+id=8E02AB4C
+versszak=6
+enek=29   Teremtő lélek
+kotet=Kék Könyv
+
+[29]
+id=FF4E06D8
+versszak=Ref
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[30]
+id=00AF270D
+versszak=1
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[31]
+id=E83BD4E0
+versszak=2
+enek=79
+kotet=Tápió Menti Énekkönyv
+
+[32]
+id=E1AA514C
+versszak=1
+enek=4C  A Duna mellett
+kotet=Kék Könyv
+
+[33]
+id=6DE36C68
+versszak=2
+enek=4C  A Duna mellett
+kotet=Kék Könyv
+
+[34]
+id=6B251434
+versszak=3
+enek=4C  A Duna mellett
+kotet=Kék Könyv
+
+[35]
+id=445AC394
+versszak=Refr-1
+enek=4C  A Duna mellett
+kotet=Kék Könyv
+
+[36]
+id=7FE4E7B0
+versszak=Refr-2
+enek=4C  A Duna mellett
+kotet=Kék Könyv
+
+[37]
+id=0972EAA8
+versszak=Refr-1
+enek=4C  A Duna mellett
+kotet=Kék Könyv
+
+[38]
+id=C68BF205
+versszak=Refr-2
+enek=4C  A Duna mellett
+kotet=Kék Könyv
+
+[39]
+id=653AC195
+versszak=Ref
+enek=224
+kotet=Tápió Menti Énekkönyv
+
+[40]
+id=9F7DBFF9
+versszak=1
+enek=224
+kotet=Tápió Menti Énekkönyv
+
+[41]
+id=39113BBE
+versszak=2
+enek=224
+kotet=Tápió Menti Énekkönyv
+
+[42]
+id=E0E11AF8
+versszak=1
+enek=19
+kotet=Dalolj az Úrnak!
+
+[43]
+id=60DD9A85
+versszak=2
+enek=19
+kotet=Dalolj az Úrnak!
+
+[44]
+id=53DDD6A9
+versszak=Refr
+enek=19
+kotet=Dalolj az Úrnak!
+
+[45]
+id=04A3AD60
+versszak=3
+enek=19
+kotet=Dalolj az Úrnak!
+
+[46]
+id=53DDD6AA
+versszak=Refr
+enek=19
+kotet=Dalolj az Úrnak!
+
+[47]
+id=5C36DC48
+versszak=4
+enek=19
+kotet=Dalolj az Úrnak!
+
+[48]
+id=1C8611A0
+versszak=Refr
+enek=19
+kotet=Dalolj az Úrnak!
+
+[49]
+id=AB5FAE38
+versszak=Refr
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[50]
+id=F8C97274
+versszak=1
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[51]
+id=AFD80F51
+versszak=Refr
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[52]
+id=58B4119E
+versszak=2
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[53]
+id=AFD80F52
+versszak=Refr
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[54]
+id=4BA61893
+versszak=3
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[55]
+id=AFD80F53
+versszak=Refr
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[56]
+id=02CB06E6
+versszak=End
+enek=Te vagy az út, te vagy az igazság
+kotet=MKK énekek
+
+[57]
+id=4205D634
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[58]
+id=A4A9E74A
+versszak=1
+enek=100
+kotet=Emmánuel közösség
+
+[59]
+id=4205D635
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[60]
+id=588FF934
+versszak=2
+enek=100
+kotet=Emmánuel közösség
+
+[61]
+id=E21B92EB
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[62]
+id=D6F1185D
+versszak=3
+enek=100
+kotet=Emmánuel közösség
+
+[63]
+id=4205D636
+versszak=Refr.
+enek=100
+kotet=Emmánuel közösség
+
+[64]
+id=64A5CE3C
+versszak=
+enek=24
+kotet=Taize-i énekek
