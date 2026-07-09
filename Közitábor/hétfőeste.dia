@@ -1,0 +1,279 @@
+[main]
+diaszam=46
+utf8=1
+
+[1]
+id=DD2B7BAF
+versszak=1
+enek=44
+kotet=Tápió Menti Énekkönyv
+
+[2]
+id=FD7BD135
+versszak=Ref
+enek=44
+kotet=Tápió Menti Énekkönyv
+
+[3]
+id=AFEF2A17
+versszak=2
+enek=44
+kotet=Tápió Menti Énekkönyv
+
+[4]
+id=55378E96
+versszak=3
+enek=44
+kotet=Tápió Menti Énekkönyv
+
+[5]
+id=A31ECB05
+versszak=4
+enek=44
+kotet=Tápió Menti Énekkönyv
+
+[6]
+id=20FF1893
+versszak=c1
+enek=127  Nyisd meg a menny kapuját
+kotet=Szent András Énekfüzet
+
+[7]
+id=C98C34CC
+versszak=v1
+enek=127  Nyisd meg a menny kapuját
+kotet=Szent András Énekfüzet
+
+[8]
+id=38B81B81
+versszak=v2
+enek=127  Nyisd meg a menny kapuját
+kotet=Szent András Énekfüzet
+
+[9]
+id=D9A0B149
+versszak=1
+enek=49
+kotet=Emmánuel közösség
+
+[10]
+id=5D02F1D6
+versszak=2
+enek=49
+kotet=Emmánuel közösség
+
+[11]
+id=BE1834C5
+versszak=1
+enek=22
+kotet=Dalolj az Úrnak!
+
+[12]
+id=BE8FE894
+versszak=2
+enek=22
+kotet=Dalolj az Úrnak!
+
+[13]
+id=6078183F
+versszak=3
+enek=22
+kotet=Dalolj az Úrnak!
+
+[14]
+id=8D98643E
+versszak=4
+enek=22
+kotet=Dalolj az Úrnak!
+
+[15]
+id=0A435A15
+versszak=5
+enek=22
+kotet=Dalolj az Úrnak!
+
+[16]
+id=1B350E47
+versszak=1
+enek=250
+kotet=Tápió Menti Énekkönyv
+
+[17]
+id=DBF6437F
+versszak=Refr
+enek=26
+kotet=Dalolj az Úrnak!
+
+[18]
+id=5718C44F
+versszak=1
+enek=26
+kotet=Dalolj az Úrnak!
+
+[19]
+id=DBF64380
+versszak=Refr
+enek=26
+kotet=Dalolj az Úrnak!
+
+[20]
+id=113D0052
+versszak=2
+enek=26
+kotet=Dalolj az Úrnak!
+
+[21]
+id=DBF64381
+versszak=Refr
+enek=26
+kotet=Dalolj az Úrnak!
+
+[22]
+id=CA3B6E36
+versszak=1
+enek=Hús vér templom[Pintér Béla]
+kotet=MKK énekek
+
+[23]
+id=86B48FC7
+versszak=Ref
+enek=Hús vér templom[Pintér Béla]
+kotet=MKK énekek
+
+[24]
+id=C9455C5B
+versszak=1
+enek=114
+kotet=Emmánuel közösség
+
+[25]
+id=81DFF063
+versszak=2
+enek=114
+kotet=Emmánuel közösség
+
+[26]
+id=912909D2
+versszak=Refr.
+enek=114
+kotet=Emmánuel közösség
+
+[27]
+id=77315DDD
+versszak=3
+enek=114
+kotet=Emmánuel közösség
+
+[28]
+id=4D520953
+versszak=Átkötés
+enek=114
+kotet=Emmánuel közösség
+
+[29]
+id=912909D3
+versszak=Refr.
+enek=114
+kotet=Emmánuel közösség
+
+[30]
+id=DF7CDF7A
+versszak=1
+enek=54
+kotet=Taize-i énekek
+
+[31]
+id=8B61D97B
+versszak=2
+enek=54
+kotet=Taize-i énekek
+
+[32]
+id=B8F6116A
+versszak=1
+enek=62
+kotet=Taize-i énekek
+
+[33]
+id=70454EA3
+versszak=2
+enek=62
+kotet=Taize-i énekek
+
+[34]
+id=9B181529
+versszak=1
+enek=Csak vándorlunk
+kotet=Cserkészek daloskönyve
+
+[35]
+id=7C974150
+versszak=2
+enek=Csak vándorlunk
+kotet=Cserkészek daloskönyve
+
+[36]
+id=BFCF107A
+versszak=1
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[37]
+id=BDA67A17
+versszak=Ref
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[38]
+id=662A918A
+versszak=2
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[39]
+id=A8004721
+versszak=Ref
+enek=348
+kotet=Tápió Menti Énekkönyv
+
+[40]
+id=C448F53C
+versszak=1
+enek=Lángok
+kotet=MKK énekek
+
+[41]
+id=524AAF2C
+versszak=Ref
+enek=Lángok
+kotet=MKK énekek
+
+[42]
+id=BC3A03C4
+versszak=2
+enek=Lángok
+kotet=MKK énekek
+
+[43]
+id=524AAF2D
+versszak=Ref
+enek=Lángok
+kotet=MKK énekek
+
+[44]
+id=ABC84F1A
+versszak=3
+enek=Lángok
+kotet=MKK énekek
+
+[45]
+id=07475092
+versszak=1
+enek=292
+kotet=Tápió Menti Énekkönyv
+
+[46]
+id=2B2E13BA
+versszak=
+enek=19   Áldjátok az Urat
+kotet=Kék Könyv
