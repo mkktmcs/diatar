@@ -14,7 +14,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Install Hunspell and Hungarian dictionary
         run: |
@@ -23,53 +23,77 @@ jobs:
 
       - name: Check spelling on modified files
         run: |
-          # Meghatározzuk a bázis commitot (PR vagy sima push esetén)
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             BASE_COMMIT="origin/${{ github.base_ref }}"
           else
-            BASE_COMMIT="HEAD~1"
+            if git rev-parse --verify HEAD~1 >/dev/null 2>&1; then
+              BASE_COMMIT="HEAD~1"
+            else
+              BASE_COMMIT="4b825dc642cb6eb9a060e54bf8d69288fbee4904"
+            fi
           fi
 
-          # Csak a módosított, hozzáadott .dia és .dtx fájlok kigyűjtése
           CHANGED_FILES=$(git diff --name-only --diff-filter=AM $BASE_COMMIT HEAD -- '*.dia' '*.dtx')
 
           if [ -z "$CHANGED_FILES" ]; then
-            echo "Nincs ellenőrizendő .dia vagy .dtx fájl a változtatások között."
+            echo "Nincs ellenőrizendő .dia vagy .dtx fájl."
             exit 0
           fi
 
-          echo "Vizsgált fájlok:"
-          echo "$CHANGED_FILES"
-          echo "----------------------------------------"
-
           HAS_ERROR=0
-
-          # Saját szótár / kivétellista beolvasása, ha létezik (.hunspell_ignore)
           IGNORE_ARGS=""
           if [ -f ".hunspell_ignore" ]; then
             IGNORE_ARGS="-p .hunspell_ignore"
           fi
 
           for FILE in $CHANGED_FILES; do
-            # Csak az újonnan hozzáadott sorok kiszűrése (+ jel nélkül, a diff fejléc kihagyásával)
-            DIFF_TEXT=$(git diff -U0 $BASE_COMMIT HEAD -- "$FILE" | grep -E '^\+[^+]' | sed 's/^\+//')
+            CURRENT_LINE=0
 
-            if [ -n "$DIFF_TEXT" ]; then
-              # Hunspell futtatása (-l csak a hibás szavakat listázza ki)
-              MISSPELLED=$(echo "$DIFF_TEXT" | hunspell -d hu_HU $IGNORE_ARGS -l | sort -u)
-
-              if [ -n "$MISSPELLED" ]; then
-                echo "❌ Helyesírási hibák a(z) $FILE fájlban:"
-                echo "$MISSPELLED"
-                echo "----------------------------------------"
-                HAS_ERROR=1
+            # Végigmegyünk a diff sorain, követve a sorszámozást
+            while IFS= read -r RAW_LINE || [ -n "$RAW_LINE" ]; do
+              # Diff chunk fejléc azonosítása: @@ -old,count +new_start,count @@
+              if [[ "$RAW_LINE" =~ ^@@\ -[0-9]+(,[0-9]+)?\ \+([0-9]+) ]]; then
+                CURRENT_LINE=${BASH_REMATCH[2]}
+                continue
               fi
-            fi
+
+              # Csak az újonnan hozzáadott sorokat vizsgáljuk
+              if [[ "$RAW_LINE" =~ ^\+([^\+].*|$) ]]; then
+                # Eltávolítjuk a diff '+' előtagját
+                LINE_CONTENT="${RAW_LINE:1}"
+
+                # Tisztítás:
+                # 1. TeX/LaTeX makrók (\parancs) és TeX kommentek (%...) törlése
+                # 2. Hexadecimális ID-k (legalább 6 karakteres hexcímkék, mint 153E22A5) kiszűrése
+                CLEANED_LINE=$(echo "$LINE_CONTENT" \
+                  | sed 's/\\[a-zA-Z@]*//g' \
+                  | sed 's/%.*//g' \
+                  | sed -E 's/\b[0-9A-Fa-f]{6,}\b//g')
+
+                if [ -n "$CLEANED_LINE" ]; then
+                  MISSPELLED=$(echo "$CLEANED_LINE" | hunspell -d hu_HU $IGNORE_ARGS -l | sort -u)
+
+                  if [ -n "$MISSPELLED" ]; then
+                    ERR_WORDS=$(echo "$MISSPELLED" | tr '\n' ', ' | sed 's/, $//')
+                    echo "::error file=$FILE,line=$CURRENT_LINE::Helyesírási hiba ($FILE:$CURRENT_LINE): $ERR_WORDS"
+                    echo "❌ $FILE:$CURRENT_LINE -> $ERR_WORDS"
+                    echo "   Eredeti sor: $LINE_CONTENT"
+                    echo "----------------------------------------"
+                    HAS_ERROR=1
+                  fi
+                fi
+
+                ((CURRENT_LINE++))
+              elif [[ "$RAW_LINE" =~ ^\  ]]; then
+                # Kontextussor esetén is lép a sor számlálója
+                ((CURRENT_LINE++))
+              fi
+            done < <(git diff -U0 $BASE_COMMIT HEAD -- "$FILE")
           done
 
           if [ $HAS_ERROR -ne 0 ]; then
-            echo "A spellcheck hibát talált a változtatásokban!"
+            echo "A spellcheck hibát talált a fenti sorokban."
             exit 1
           fi
 
-          echo "Minden változtatás helyesírása rendben van! ✅"
+          echo "Minden szöveg helyesírása rendben van! ✅"
