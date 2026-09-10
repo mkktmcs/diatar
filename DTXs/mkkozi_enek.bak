@@ -133,6 +133,11 @@ P
  Sanguis Christi inebria me,
  Aqua lateris Christi lava me!
 
+>Az Úr dícsérete
+/refr
+#84980663
+ Alleluja, Alleluja, Alleluja, Alleluja!
+
 >Az vagyok, kinek Te hívsz
 /1
 #D3FDA523
@@ -161,6 +166,12 @@ P
  Mindig érzem, Te vagy értem,
  az vagyok, kinek Te hívsz ://
  Igen, az vagyok, kinek Te hívsz!
+/refr
+#8D7A9238
+ Akit Ő megvált, az szabaddá vált!
+ Engem gyermekké fogadtál!
+ Atyám, házdban helyet szánsz nekem.
+ Engem germekké fogadtál.
 
 >Benned bízom én
 /1
@@ -514,6 +525,86 @@ P
  // Jézus hív, Jézus vár: a templom nyitva áll!
  Ragyog ránk a napsugár, mert Jézus minket vár! //
 
+;(c) Antióchia Közösség
+>Hálóvetők
+/1
+#3CB7A929
+ Jöjj, jöjj most velem, nagy munka vár.
+ Evezz, én a hálót vetem a jobb oldalán.
+ Szólt, így szólt az Úr, pedig már feladtuk,
+ jó lesz az  úgy, hogy
+ "Menj, munkára fel, csónakba hát!"
+/2
+#FF4FB2EC
+ Nézd, előttünk áll kősziklás út.
+ Fáj, ha talpad bevág, szétmegy sarud
+ Az út végén keresztfa áll sok kanyargó mérföld után,
+ de a sziklák között is találsz pár jó illatút.
+/refr
+#E9475E59
+ Mert Isten nagy szobrász mester, a kőből is rózsát nevel.
+ Mi szobrászok nem vagyunk, csak kavicsszedők
+ Szavában csak bízni kell, s hálónkba bőséges zsákmányt terel.
+ Mások közt így lesszünk válóvetők.
+/3
+#BF93D423
+ Jöjj, csomózd meg jól, szakadt pár helyen!
+ Edzz, edzd meg karod, hogy biztos legyen!
+ Kell, hogy jobban szorítsd, hogy mindig javulj és javíts,
+ Hogy még jobban fogjon, mint mikor mi akadtunk fenn!
+/refr
+#153E22A5
+ Mert Isten nagy szobrász mester, a kőből is rózsát nevel.
+ Mi szobrászok nem vagyunk, csak kavicsszedők
+ Szavában csak bízni kell, s hálónkba bőséges zsákmányt terel.
+ Mások közt így lesszünk válóvetők.
+/bridge
+#D7F939D9
+ Vesd ki most a hálót az emberek közé,
+ Csónakunk hasítsa a tiszta tó vizét!
+ Elcsitul a zápor, csendeszül a szél,
+ Jézusunk szavára a hálót vesd ki még!
+/refr
+#153E22A6
+ Mert Isten nagy szobrász mester, a kőből is rózsát nevel.
+ Mi szobrászok nem vagyunk, csak kavicsszedők
+ Szavában csak bízni kell, s hálónkba bőséges zsákmányt terel.
+ Mások közt így lesszünk válóvetők.
+
+>Hány Király?
+/1
+#F54EE591
+ Kövesd a fényt hova senki se menne!
+ Hinnéd e, hogy Ő, Kit vágyálmunk jelze
+ jászolból néz ki ránk?
+/2
+#EACFB985
+ És hány isten öntötte rám szép szívét?
+ Táncra hány perdült egy rongy emberért?
+ Hány apa tépte szét értem gyermekét?
+/Refr1
+#AE5804C0
+ Mert hány király mondott le trónjáról már?
+ Hány az az úr, aki koldussá vált?
+ Hány nagyság lett már összetört emberré?
+/Refr2
+#A19BB276
+ És hány isten öntötte rám szép szívét?
+ Táncra hány perdült egy rongy emberért?
+ Hány apa tépte szét értem gyermekét?
+ (V: Egy már megtette, nézd!)
+/3
+#FDD04DC0
+ Elhoztuk kincseink a gyermek Úrhoz,
+ mindenünk adjuk, ha rongy, ha bíbor,
+ adjuk mert értünk él!
+/4
+#B704B2E9
+ Aranyat tisztére, balzsamot szívére,
+ bódító mirhát a keresztért, sebére.
+ Mondd, hiszed é, hiszed, hogy Ő az,
+ Akire vártunk rég?
+
 >Há pressa no ar
 /1
 #3CF211B4
@@ -578,40 +669,6 @@ P
  Hozzá emeljük lelkünk, az életünk.
  Jézussal az úton nem félünk,
  a szeretet el nem hagy.
-
->Hány Király?
-/1
-#F54EE591
- Kövesd a fényt hova senki se menne!
- Hinnéd e, hogy Ő, Kit vágyálmunk jelze
- jászolból néz ki ránk?
-/2
-#EACFB985
- És hány isten öntötte rám szép szívét?
- Táncra hány perdült egy rongy emberért?
- Hány apa tépte szét értem gyermekét?
-/Refr1
-#AE5804C0
- Mert hány király mondott le trónjáról már?
- Hány az az úr, aki koldussá vált?
- Hány nagyság lett már összetört emberré?
-/Refr2
-#A19BB276
- És hány isten öntötte rám szép szívét?
- Táncra hány perdült egy rongy emberért?
- Hány apa tépte szét értem gyermekét?
- (V: Egy már megtette, nézd!)
-/3
-#FDD04DC0
- Elhoztuk kincseink a gyermek Úrhoz,
- mindenünk adjuk, ha rongy, ha bíbor,
- adjuk mert értünk él!
-/4
-#B704B2E9
- Aranyat tisztére, balzsamot szívére,
- bódító mirhát a keresztért, sebére.
- Mondd, hiszed é, hiszed, hogy Ő az,
- Akire vártunk rég?
 
 >Hegyen épült város
 /1

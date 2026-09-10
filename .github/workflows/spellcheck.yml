@@ -1,0 +1,75 @@
+name: Hungarian Spellcheck
+
+on:
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
+
+jobs:
+  spellcheck:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Install Hunspell and Hungarian dictionary
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y hunspell hunspell-hu
+
+      - name: Check spelling on modified files
+        run: |
+          # Meghatározzuk a bázis commitot (PR vagy sima push esetén)
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE_COMMIT="origin/${{ github.base_ref }}"
+          else
+            BASE_COMMIT="HEAD~1"
+          fi
+
+          # Csak a módosított, hozzáadott .dia és .dtx fájlok kigyűjtése
+          CHANGED_FILES=$(git diff --name-only --diff-filter=AM $BASE_COMMIT HEAD -- '*.dia' '*.dtx')
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "Nincs ellenőrizendő .dia vagy .dtx fájl a változtatások között."
+            exit 0
+          fi
+
+          echo "Vizsgált fájlok:"
+          echo "$CHANGED_FILES"
+          echo "----------------------------------------"
+
+          HAS_ERROR=0
+
+          # Saját szótár / kivétellista beolvasása, ha létezik (.hunspell_ignore)
+          IGNORE_ARGS=""
+          if [ -f ".hunspell_ignore" ]; then
+            IGNORE_ARGS="-p .hunspell_ignore"
+          fi
+
+          for FILE in $CHANGED_FILES; do
+            # Csak az újonnan hozzáadott sorok kiszűrése (+ jel nélkül, a diff fejléc kihagyásával)
+            DIFF_TEXT=$(git diff -U0 $BASE_COMMIT HEAD -- "$FILE" | grep -E '^\+[^+]' | sed 's/^\+//')
+
+            if [ -n "$DIFF_TEXT" ]; then
+              # Hunspell futtatása (-l csak a hibás szavakat listázza ki)
+              MISSPELLED=$(echo "$DIFF_TEXT" | hunspell -d hu_HU $IGNORE_ARGS -l | sort -u)
+
+              if [ -n "$MISSPELLED" ]; then
+                echo "❌ Helyesírási hibák a(z) $FILE fájlban:"
+                echo "$MISSPELLED"
+                echo "----------------------------------------"
+                HAS_ERROR=1
+              fi
+            fi
+          done
+
+          if [ $HAS_ERROR -ne 0 ]; then
+            echo "A spellcheck hibát talált a változtatásokban!"
+            exit 1
+          fi
+
+          echo "Minden változtatás helyesírása rendben van! ✅"

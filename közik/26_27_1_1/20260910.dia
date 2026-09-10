@@ -1,0 +1,418 @@
+[main]
+diaszam=62
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+caption= 
+lines=6
+line0=Uram, köszönjük azokat a pillanatokat, amelyeket nem terveztünk meg. Egy hirtelen jött 
+line1=programot, egy esti sétát vagy egy „menjünk, aztán lesz valami” döntést. Segíts, hogy a 
+line2=hétköznapokban is merjünk néha spontánok lenni. 
+line3=Uram, köszönjük azokat a pillanatokat, amelyeket nem terveztünk meg. Egy hirtelen jött 
+line4=programot, egy esti sétát vagy egy „menjünk, aztán lesz valami” döntést. Segíts, hogy a 
+line5=hétköznapokban is merjünk néha spontánok lenni. 
+soundfile=
+fotofile=
+
+[5]
+caption= 
+lines=6
+line0=Istenünk, köszönjük azokat a pillanatokat, amikor annyira nevettünk, hogy már azt sem 
+line1=tudtuk, min nevetünk. Add, hogy a komolyabb napokon se felejtsük el, milyen sokat tud adni 
+line2=egy őszinte nevetés. 
+line3=A nyár arra is megtanít minket, hogy nem kell mindig rohanni. Köszönjük a lassú reggeleket, 
+line4=a semmittevést, a hosszú estéket és azokat a pillanatokat, amikor végre nem kellett sehova 
+line5=sietnünk. Taníts minket arra, hogy néha megálljunk. 
+soundfile=
+fotofile=
+
+[6]
+caption= 
+lines=7
+line0=Ha becsukjuk a szemünket, mindenkinek eszébe jut egy pillanat erről a nyárról, amit 
+line1=szívesen újra átélnénk. Köszönjük ezeket az emlékeket, és segíts, hogy akkor is felismerjük 
+line2=a szépet, amikor éppen benne vagyunk. 
+line3=Uram, most lassan búcsút intünk a nyárnak. Egy új időszak kezdődik, új feladatokkal, új 
+line4=kihívásokkal és új élményekkel. Segíts, hogy a nyár könnyedségéből, öröméből és 
+line5=bátorságából valamit magunkkal vigyünk. 
+line6=Amen. 
+soundfile=
+fotofile=
+
+[7]
+id=8D7CBC69
+versszak=1
+enek=Krisztus, légy velünk
+kotet=MKK énekek
+
+[8]
+id=64CDB962
+versszak=2
+enek=Krisztus, légy velünk
+kotet=MKK énekek
+
+[9]
+id=6D05304D
+versszak=Refr
+enek=Krisztus, légy velünk
+kotet=MKK énekek
+
+[10]
+id=E1E7F422
+versszak=3
+enek=Krisztus, légy velünk
+kotet=MKK énekek
+
+[11]
+id=7C336FEE
+versszak=Refr
+enek=Krisztus, légy velünk
+kotet=MKK énekek
+
+[12]
+id=1E41ADDA
+versszak=Bridge
+enek=Krisztus, légy velünk
+kotet=MKK énekek
+
+[13]
+id=7C336FEF
+versszak=Refr
+enek=Krisztus, légy velünk
+kotet=MKK énekek
+
+[14]
+caption= 
+lines=5
+line0=Bármit tesztek, tegyétek szívből, mintha az Úrnak és nem embereknek 
+line1=tennétek. \IKol 3,23\i 
+line2=Ne látszatra szolgáljatok, mint akik emberek tetszését keresik, hanem mint 
+line3=Krisztus szolgái, akik szívesen teljesítik Isten akaratát. Odaadással szolgáljatok, mert 
+line4=az Úrnak szolgáltok, nem embereknek. \IEf 6,6-7 
+soundfile=
+fotofile=
+
+[15]
+caption= 
+lines=6
+line0=Legyetek tehát állhatatosak és kitartók, szeretett testvéreim! Tegyetek 
+line1=mindig minél többet az Úr ügyéért, hiszen tudjátok, hogy az Úr ügyében való 
+line2=fáradozástok nem hiábavaló. \I1Kor 15,58 
+line3=Vesd magad Isten karjaiba, és légy egészen biztos benne, 
+line4=hogy bármilyen munkára is szán téged, alkalmassá fog tenni rá, és erőt fog 
+line5=adni hozzá. \INéri Szent Fülöp 
+soundfile=
+fotofile=
+
+[16]
+caption= 
+lines=3
+line0=Ne hasonuljatok a világhoz, hanem gondolkodástokban megújulva 
+line1=alakuljatok át, hogy felismerjétek, mi az Isten akarata, mi a helyes, mi a kedves előtte 
+line2=és mi a tökéletes. \IRóm 12,2\i 
+soundfile=
+fotofile=
+
+[17]
+id=D3FDA523
+versszak=1
+enek=Az vagyok, kinek Te hívsz
+kotet=MKK énekek
+
+[18]
+id=50769BA9
+versszak=refr
+enek=Az vagyok, kinek Te hívsz
+kotet=MKK énekek
+
+[19]
+id=5DE53FBF
+versszak=2
+enek=Az vagyok, kinek Te hívsz
+kotet=MKK énekek
+
+[20]
+id=8D7A9237
+versszak=refr
+enek=Az vagyok, kinek Te hívsz
+kotet=MKK énekek
+
+[21]
+id=AC8D8F13
+versszak=bridge
+enek=Az vagyok, kinek Te hívsz
+kotet=MKK énekek
+
+[22]
+id=8D7A9238
+versszak=refr
+enek=Az vagyok, kinek Te hívsz
+kotet=MKK énekek
+
+[23]
+caption= 
+lines=6
+line0=Kimondhatatlan teremtő Isten, te bölcsességed szerint a 
+line1=világegyetem minden részét a lehető legszebben rendezted el, téged joggal vallunk a 
+line2=világosság és a bölcsesség forrásának! Öntsd ki kegyesen homályos értelmemre 
+line3=szereteted sugarait és távoztasd el tőlem a kettős sötétséget, melyben születtem: a 
+line4=bűnt és a tudatlanságot. Te a csecsemők nyelvét is megoldod; az én nyelvemet is 
+line5=vezesd és édességed kegyelmével halmozd el. 
+soundfile=
+fotofile=
+
+[24]
+caption= 
+lines=4
+line0=Add meg nekem az értő elme élességét, az emlékezet megtartó erejét, a tanulás 
+line1=könnyű útját, az értelmezés finomságát, a beszéd könnyed folyását. Tanulásom 
+line2=kezdetét te vezesd, folyamatában te irányítsd, és a végén te teljesítsd be, aki igaz 
+line3=Isten és igaz ember vagy. Ámen.\.\IAquinói Szent Tamás\i 
+soundfile=
+fotofile=
+
+[25]
+id=3CB7A929
+versszak=1
+enek=Hálóvetők
+kotet=MKK énekek
+
+[26]
+id=FF4FB2EC
+versszak=2
+enek=Hálóvetők
+kotet=MKK énekek
+
+[27]
+id=E9475E59
+versszak=refr
+enek=Hálóvetők
+kotet=MKK énekek
+
+[28]
+id=BF93D423
+versszak=3
+enek=Hálóvetők
+kotet=MKK énekek
+
+[29]
+id=153E22A5
+versszak=refr
+enek=Hálóvetők
+kotet=MKK énekek
+
+[30]
+id=D7F939D9
+versszak=bridge
+enek=Hálóvetők
+kotet=MKK énekek
+
+[31]
+id=153E22A6
+versszak=refr
+enek=Hálóvetők
+kotet=MKK énekek
+
+[32]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[33]
+kep=feladatok.png
+soundfile=
+fotofile=
+
+[34]
+caption=Csoportbeosztás 
+lines=5
+line0=Templom: Füge, Gránátalma, Méz, Szeder, Borsó, Cesztenye, Mandula, Pisztácia, Bambusz, Bodza, Pipacs 
+line1=Köziterem: Nefelejcs, Cseresznyevirág, Parázs 
+line2=Alagsor: Ultraibolya 
+line3=Alagsor konyha: Áfonya 
+line4=BMEQBF08: Avokádó, Jégmadár 
+soundfile=
+fotofile=
+
+[35]
+separator=<Záróima> 
+soundfile=
+fotofile=
+
+[36]
+id=FF89109E
+versszak=c1
+enek=17  Hozzád száll az énekem
+kotet=Szent András Énekfüzet
+
+[37]
+id=021A71B8
+versszak=v1
+enek=17  Hozzád száll az énekem
+kotet=Szent András Énekfüzet
+
+[38]
+id=F2031AC4
+versszak=Refr
+enek=180
+kotet=Dalolj az Úrnak!
+
+[39]
+id=8DAD2C78
+versszak=1
+enek=180
+kotet=Dalolj az Úrnak!
+
+[40]
+id=10068C33
+versszak=Refr
+enek=180
+kotet=Dalolj az Úrnak!
+
+[41]
+id=E08DB9C4
+versszak=2
+enek=180
+kotet=Dalolj az Úrnak!
+
+[42]
+id=10068C34
+versszak=Refr
+enek=180
+kotet=Dalolj az Úrnak!
+
+[43]
+separator=az úr dícsérete 
+soundfile=
+fotofile=
+
+[44]
+id=901643E1
+versszak=1
+enek=43
+kotet=Tápió Menti Énekkönyv
+
+[45]
+id=09A86093
+versszak=Ref
+enek=43
+kotet=Tápió Menti Énekkönyv
+
+[46]
+id=C434FECC
+versszak=2
+enek=43
+kotet=Tápió Menti Énekkönyv
+
+[47]
+id=A9C59BCC
+versszak=3
+enek=43
+kotet=Tápió Menti Énekkönyv
+
+[48]
+id=5765A882
+versszak=4
+enek=43
+kotet=Tápió Menti Énekkönyv
+
+[49]
+id=3F03717B
+versszak=5
+enek=43
+kotet=Tápió Menti Énekkönyv
+
+[50]
+id=0BCDA120
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[51]
+id=A0CD08C6
+versszak=1
+enek=1
+kotet=Dalolj az Úrnak!
+
+[52]
+id=6E09FF92
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[53]
+id=162C0D16
+versszak=2
+enek=1
+kotet=Dalolj az Úrnak!
+
+[54]
+id=0BCDA121
+versszak=Refr
+enek=1
+kotet=Dalolj az Úrnak!
+
+[55]
+id=854CC609
+versszak=Refr
+enek=55
+kotet=Dalolj az Úrnak!
+
+[56]
+id=CDA8625A
+versszak=1
+enek=55
+kotet=Dalolj az Úrnak!
+
+[57]
+id=854CC60A
+versszak=Refr
+enek=55
+kotet=Dalolj az Úrnak!
+
+[58]
+id=C87613B3
+versszak=2
+enek=55
+kotet=Dalolj az Úrnak!
+
+[59]
+id=854CC60B
+versszak=Refr
+enek=55
+kotet=Dalolj az Úrnak!
+
+[60]
+id=47748772
+versszak=3
+enek=55
+kotet=Dalolj az Úrnak!
+
+[61]
+id=854CC60C
+versszak=Refr
+enek=55
+kotet=Dalolj az Úrnak!
+
+[62]
+id=70454EA3
+versszak=2
+enek=62
+kotet=Taize-i énekek
