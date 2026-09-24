@@ -1,0 +1,78 @@
+2026-09-24 08:22:16,886 MainThread openlp.core.common.settings                             WARNING  One of ['songs/search as type'] does not exist, skipping upgrade
+2026-09-24 08:22:16,887 MainThread openlp.core.common.settings                             WARNING  One of ['media/players'] does not exist, skipping upgrade
+2026-09-24 08:22:16,887 MainThread openlp.core.common.settings                             WARNING  One of ['media/players_temp'] does not exist, skipping upgrade
+2026-09-24 08:22:16,888 MainThread openlp.core.common.settings                             WARNING  One of ['advanced/data path'] does not exist, skipping upgrade
+2026-09-24 08:22:16,888 MainThread openlp.core.common.settings                             WARNING  One of ['advanced/default color'] does not exist, skipping upgrade
+2026-09-24 08:22:16,889 MainThread openlp.core.common.settings                             WARNING  One of ['advanced/default image'] does not exist, skipping upgrade
+2026-09-24 08:22:16,889 MainThread openlp.core.common.settings                             WARNING  One of ['advanced/use_dark_style'] does not exist, skipping upgrade
+2026-09-24 08:22:16,890 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/advanced bible'] does not exist, skipping upgrade
+2026-09-24 08:22:16,890 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/last directory import'] does not exist, skipping upgrade
+2026-09-24 08:22:16,890 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/last search type'] does not exist, skipping upgrade
+2026-09-24 08:22:16,890 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/proxy address'] does not exist, skipping upgrade
+2026-09-24 08:22:16,890 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/proxy name'] does not exist, skipping upgrade
+2026-09-24 08:22:16,891 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/proxy password'] does not exist, skipping upgrade
+2026-09-24 08:22:16,891 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/proxy username'] does not exist, skipping upgrade
+2026-09-24 08:22:16,892 MainThread openlp.core.common.settings                             WARNING  One of ['bibles/quick bible'] does not exist, skipping upgrade
+2026-09-24 08:22:16,892 MainThread openlp.core.common.settings                             WARNING  One of ['core/audio repeat list'] does not exist, skipping upgrade
+2026-09-24 08:22:16,892 MainThread openlp.core.common.settings                             WARNING  One of ['core/audio start paused'] does not exist, skipping upgrade
+2026-09-24 08:22:16,892 MainThread openlp.core.common.settings                             WARNING  One of ['core/logo file'] does not exist, skipping upgrade
+2026-09-24 08:22:16,893 MainThread openlp.core.common.settings                             WARNING  One of ['core/monitor', 'core/x position', 'core/y position', 'core/height', 'core/width', 'core/override position', 'core/display on monitor'] does not exist, skipping upgrade
+2026-09-24 08:22:16,894 MainThread openlp.core.common.settings                             WARNING  One of ['core/recent files'] does not exist, skipping upgrade
+2026-09-24 08:22:16,894 MainThread openlp.core.common.settings                             WARNING  One of ['core/save prompt'] does not exist, skipping upgrade
+2026-09-24 08:22:16,894 MainThread openlp.core.common.settings                             WARNING  One of ['crashreport/last directory'] does not exist, skipping upgrade
+2026-09-24 08:22:16,894 MainThread openlp.core.common.settings                             WARNING  One of ['custom/last search type'] does not exist, skipping upgrade
+2026-09-24 08:22:16,895 MainThread openlp.core.common.settings                             WARNING  One of ['images/background color'] does not exist, skipping upgrade
+2026-09-24 08:22:16,895 MainThread openlp.core.common.settings                             WARNING  One of ['images/last directory'] does not exist, skipping upgrade
+2026-09-24 08:22:16,895 MainThread openlp.core.common.settings                             WARNING  One of ['media/last directory'] does not exist, skipping upgrade
+2026-09-24 08:22:16,895 MainThread openlp.core.common.settings                             WARNING  One of ['media/media files'] does not exist, skipping upgrade
+2026-09-24 08:22:16,895 MainThread openlp.core.common.settings                             WARNING  One of ['media/override player'] does not exist, skipping upgrade
+2026-09-24 08:22:16,896 MainThread openlp.core.common.settings                             WARNING  One of ['media/players'] does not exist, skipping upgrade
+2026-09-24 08:22:16,896 MainThread openlp.core.common.settings                             WARNING  One of ['presentations / Powerpoint Viewer'] does not exist, skipping upgrade
+2026-09-24 08:22:16,896 MainThread openlp.core.common.settings                             WARNING  One of ['presentations/enable_pdf_program'] does not exist, skipping upgrade
+2026-09-24 08:22:16,897 MainThread openlp.core.common.settings                             WARNING  One of ['presentations/last directory'] does not exist, skipping upgrade
+2026-09-24 08:22:16,897 MainThread openlp.core.common.settings                             WARNING  One of ['presentations/pdf_program'] does not exist, skipping upgrade
+2026-09-24 08:22:16,897 MainThread openlp.core.common.settings                             WARNING  One of ['presentations/presentations files'] does not exist, skipping upgrade
+2026-09-24 08:22:16,897 MainThread openlp.core.common.settings                             WARNING  One of ['projector/last directory export'] does not exist, skipping upgrade
+2026-09-24 08:22:16,898 MainThread openlp.core.common.settings                             WARNING  One of ['projector/last directory import'] does not exist, skipping upgrade
+2026-09-24 08:22:16,898 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/authentication enabled'] does not exist, skipping upgrade
+2026-09-24 08:22:16,898 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/https enabled'] does not exist, skipping upgrade
+2026-09-24 08:22:16,898 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/https port'] does not exist, skipping upgrade
+2026-09-24 08:22:16,898 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/ip address'] does not exist, skipping upgrade
+2026-09-24 08:22:16,898 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/password'] does not exist, skipping upgrade
+2026-09-24 08:22:16,899 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/port'] does not exist, skipping upgrade
+2026-09-24 08:22:16,899 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/thumbnails'] does not exist, skipping upgrade
+2026-09-24 08:22:16,899 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/twelve hour'] does not exist, skipping upgrade
+2026-09-24 08:22:16,899 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/user id'] does not exist, skipping upgrade
+2026-09-24 08:22:16,899 MainThread openlp.core.common.settings                             WARNING  One of ['remotes/websocket port'] does not exist, skipping upgrade
+2026-09-24 08:22:16,900 MainThread openlp.core.common.settings                             WARNING  One of ['servicemanager/last directory'] does not exist, skipping upgrade
+2026-09-24 08:22:16,900 MainThread openlp.core.common.settings                             WARNING  One of ['servicemanager/last file'] does not exist, skipping upgrade
+2026-09-24 08:22:16,900 MainThread openlp.core.common.settings                             WARNING  One of ['shortcuts/desktopScreenEnable'] does not exist, skipping upgrade
+2026-09-24 08:22:16,900 MainThread openlp.core.common.settings                             WARNING  One of ['shortcuts/escapeItem'] does not exist, skipping upgrade
+2026-09-24 08:22:16,900 MainThread openlp.core.common.settings                             WARNING  One of ['shortcuts/offlineHelpItem'] does not exist, skipping upgrade
+2026-09-24 08:22:16,901 MainThread openlp.core.common.settings                             WARNING  One of ['shortcuts/onlineHelpItem'] does not exist, skipping upgrade
+2026-09-24 08:22:16,901 MainThread openlp.core.common.settings                             WARNING  One of ['songs/auto play audio'] does not exist, skipping upgrade
+2026-09-24 08:22:16,901 MainThread openlp.core.common.settings                             WARNING  One of ['songs/last directory export'] does not exist, skipping upgrade
+2026-09-24 08:22:16,901 MainThread openlp.core.common.settings                             WARNING  One of ['songs/last directory import'] does not exist, skipping upgrade
+2026-09-24 08:22:16,902 MainThread openlp.core.common.settings                             WARNING  One of ['songs/last search type'] does not exist, skipping upgrade
+2026-09-24 08:22:16,902 MainThread openlp.core.common.settings                             WARNING  One of ['songuasge/db database'] does not exist, skipping upgrade
+2026-09-24 08:22:16,902 MainThread openlp.core.common.settings                             WARNING  One of ['songuasge/db hostname'] does not exist, skipping upgrade
+2026-09-24 08:22:16,902 MainThread openlp.core.common.settings                             WARNING  One of ['songuasge/db password'] does not exist, skipping upgrade
+2026-09-24 08:22:16,903 MainThread openlp.core.common.settings                             WARNING  One of ['songusage/last directory export'] does not exist, skipping upgrade
+2026-09-24 08:22:16,903 MainThread openlp.core.common.settings                             WARNING  One of ['themes/last directory export'] does not exist, skipping upgrade
+2026-09-24 08:22:16,903 MainThread openlp.core.common.settings                             WARNING  One of ['themes/last directory import'] does not exist, skipping upgrade
+2026-09-24 08:22:16,903 MainThread openlp.core.common.settings                             WARNING  One of ['themes/last directory'] does not exist, skipping upgrade
+2026-09-24 08:22:16,904 MainThread openlp.core.common.settings                             WARNING  One of ['themes/wrap footer'] does not exist, skipping upgrade
+2026-09-24 08:22:16,904 MainThread openlp.core.common.settings                             WARNING  One of ['songs/add songbook slide'] does not exist, skipping upgrade
+2026-09-24 08:22:18,605 MainThread openlp.core.common.actions                              WARNING  Shortcut "" is removed from "fileExitItem" because another action already uses this shortcut.
+2026-09-24 08:22:19,155 MainThread openlp.core.common.actions                              WARNING  Shortcut "" is removed from "settingsConfigureItem" because another action already uses this shortcut.
+2026-09-24 08:22:22,130 MainThread openlp.plugins.presentations.lib.impresscontroller      WARNING  Failed to get COM service manager. Impress Controller has been disabled
+2026-09-24 08:22:39,283 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,286 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,288 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,289 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,291 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,319 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,342 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,344 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,360 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.
+2026-09-24 08:22:39,379 MainThread openlp.core.display.webengine                           ERROR    openlp://display/reveal.js:1995 Uncaught RangeError: Maximum call stack size exceeded.

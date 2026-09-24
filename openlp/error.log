@@ -1,0 +1,32 @@
+Windows fatal exception: code 0x800706be
+
+Current thread 0x00004d94 (most recent call first):
+  File "openlp\plugins\presentations\lib\presentationcontroller.py", line 531 in is_available
+  File "openlp\plugins\presentations\lib\presentationtab.py", line 135 in load
+  File "openlp\core\lib\settingstab.py", line 58 in _setup
+  File "openlp\core\lib\settingstab.py", line 49 in __init__
+  File "openlp\plugins\presentations\lib\presentationtab.py", line 37 in __init__
+  File "openlp\plugins\presentations\presentationplugin.py", line 73 in create_settings_tab
+  File "openlp\core\lib\pluginmanager.py", line 112 in hook_settings_tabs
+  File "openlp\core\lib\pluginmanager.py", line 72 in bootstrap_post_set_up
+  File "openlp\core\common\registry.py", line 147 in execute
+  File "openlp\core\app.py", line 138 in run
+  File "openlp\core\app.py", line 616 in main
+  File "openlp\__main__.py", line 75 in start
+  File "openlp\__main__.py", line 79 in <module>
+Windows fatal exception: code 0x800706ba
+
+Current thread 0x00004d94 (most recent call first):
+  File "openlp\plugins\presentations\lib\presentationcontroller.py", line 531 in is_available
+  File "openlp\plugins\presentations\lib\presentationtab.py", line 135 in load
+  File "openlp\core\lib\settingstab.py", line 58 in _setup
+  File "openlp\core\lib\settingstab.py", line 49 in __init__
+  File "openlp\plugins\presentations\lib\presentationtab.py", line 37 in __init__
+  File "openlp\plugins\presentations\presentationplugin.py", line 73 in create_settings_tab
+  File "openlp\core\lib\pluginmanager.py", line 112 in hook_settings_tabs
+  File "openlp\core\lib\pluginmanager.py", line 72 in bootstrap_post_set_up
+  File "openlp\core\common\registry.py", line 147 in execute
+  File "openlp\core\app.py", line 138 in run
+  File "openlp\core\app.py", line 616 in main
+  File "openlp\__main__.py", line 75 in start
+  File "openlp\__main__.py", line 79 in <module>
