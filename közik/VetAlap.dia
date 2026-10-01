@@ -1,0 +1,94 @@
+[main]
+diaszam=16
+utf8=1
+
+[1]
+separator=Nyitóima 
+soundfile=
+fotofile=
+
+[2]
+id=C472DB4B
+versszak=1
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[3]
+id=9BFAF5C9
+versszak=2
+enek=Közös kezdőima
+kotet=MKK Közös imádságok
+
+[4]
+id=48AA2F02
+versszak=
+enek=11   A világnak Krisztus kell
+kotet=Kék Könyv
+
+[5]
+id=5A64DA86
+versszak=1
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[6]
+id=13BE0519
+versszak=Ref
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[7]
+id=A3BF9980
+versszak=2
+enek=142
+kotet=Tápió Menti Énekkönyv
+
+[8]
+id=CE2D91A2
+versszak=1
+enek=135   Loyolai Szent Ignác Imája
+kotet=Kék Könyv
+
+[9]
+id=72FBE449
+versszak=2
+enek=135   Loyolai Szent Ignác Imája
+kotet=Kék Könyv
+
+[10]
+id=B0404554
+versszak=v1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[11]
+id=A2D3467C
+versszak=c1
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[12]
+id=59929C34
+versszak=v2
+enek=57  Itt vagyok most, jó Uram
+kotet=Szent András Énekfüzet
+
+[13]
+kep=26_27_1_3\felelosok-2026-09-24.png
+soundfile=
+fotofile=
+
+[14]
+kep=26_27_1_3\csoportbeosztas-2026-09-24.png
+soundfile=
+fotofile=
+
+[15]
+separator=<Csoportbeosztás> 
+soundfile=
+fotofile=
+
+[16]
+separator=<Záróima> 
+soundfile=
+fotofile=
